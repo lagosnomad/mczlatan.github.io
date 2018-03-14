@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Olakanmi Wole
+bio: Lagos Nomad that writes code for the web and mobile platforms.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -13,10 +13,10 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+#url: lagosnomad.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -30,50 +30,44 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: mczlatanbourne # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
+#facebook: myfacebook
+twitter: alagosnomad
+google:  McZlatanBourne
+instagram: alagosnomad
+pinterest: lagosnomad
+linkedin: olakanmi-oluwole-96b129b7
+youtube: McZlatanBourne 
 # spotify: myspotify
-github: mygithub
+github: mczlatan
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-medium: medium
+stackoverflow: 3812348/mczlatan
+quora: Mczlatan-Bourne
+#reddit: username
+medium: McZlatan_Bourne
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: wole@lagosnomad.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    lagosnomad:
+        name: Olakanmi Oluwole
+        bio: Lagos Nomad that writes code for the web and mobile platforms.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
-
+        twitter: alagosnomad
+    
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: small
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
@@ -106,6 +100,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com
