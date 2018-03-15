@@ -25,4 +25,4 @@ date: 2018-03-13
 
 
 
-Currently writing this blog post. Please chack back soon or [tweet at me](/) if you want to be notified when i publish the post.
+Currently writing this blog post. Please check back soon or [tweet at me](/) if you want to be notified when i publish the post.

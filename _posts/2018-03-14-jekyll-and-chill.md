@@ -20,4 +20,4 @@ date: 2018-03-14
 ---
 ![Jekyll and Chill](../assets/images/post-bg-10.jpg)
 
-Currently writing this blog post. Please chack back soon or [tweet at me](/) if you want to be notified when i publish the post.
+Currently writing this blog post. Please check back soon or [tweet at me](/) if you want to be notified when i publish the post.
