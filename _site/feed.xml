@@ -1,433 +1,789 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-14T12:11:06+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Wole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+01:00</published><updated>2016-02-24T22:48:00+01:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-15T02:20:39+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Wole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Jekyll and Chill</title><link href="http://localhost:4000/jekyll-and-chill/" rel="alternate" type="text/html" title="Jekyll and Chill" /><published>2018-03-14T00:00:00+01:00</published><updated>2018-03-14T00:00:00+01:00</updated><id>http://localhost:4000/jekyll-and-chill</id><content type="html" xml:base="http://localhost:4000/jekyll-and-chill/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-10.jpg&quot; alt=&quot;Jekyll and Chill&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
+&lt;p&gt;Currently writing this blog post. Please chack back soon or &lt;a href=&quot;/&quot;&gt;tweet at me&lt;/a&gt; if you want to be notified when i publish the post.&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="jekyll" /><category term="whogohost" /><category term="github" /><category term="DNS" /><category term="zoho" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Reverse Engineering Hybrid Mobile Apps</title><link href="http://localhost:4000/reverse-engineering-hybrid/" rel="alternate" type="text/html" title="Reverse Engineering Hybrid Mobile Apps" /><published>2018-03-13T00:00:00+01:00</published><updated>2018-03-13T00:00:00+01:00</updated><id>http://localhost:4000/reverse-engineering-hybrid</id><content type="html" xml:base="http://localhost:4000/reverse-engineering-hybrid/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-10.jpg&quot; alt=&quot;Reverse Engineering Hybrid Apps&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;especial-elements&quot;&gt;Especial Elements&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#evidence&quot;&gt;Evidence&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#side-by-side&quot;&gt;Side-by-Side&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#star&quot;&gt;Star&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#especial-breaker&quot;&gt;Especial Breaker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#spoiler&quot;&gt;Spoiler&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Currently writing this blog post. Please chack back soon or &lt;a href=&quot;/&quot;&gt;tweet at me&lt;/a&gt; if you want to be notified when i publish the post.&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="javascript" /><category term="ionic" /><category term="cordova" /><category term="hybrid" /><category term="android" /><category term="ios" /><category term="app" /><category term="mobile" /><category term="hacker" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Something Light</title><link href="http://localhost:4000/something-light/" rel="alternate" type="text/html" title="Something Light" /><published>2017-10-27T00:00:00+01:00</published><updated>2017-10-27T00:00:00+01:00</updated><id>http://localhost:4000/something-light</id><content type="html" xml:base="http://localhost:4000/something-light/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-13.jpg&quot; alt=&quot;Something Light&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;external-elements&quot;&gt;External Elements&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#gist&quot;&gt;Gist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#codepen&quot;&gt;Codepen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#slideshare&quot;&gt;Slideshare&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#videos&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;evidence&quot;&gt;Evidence&lt;/h2&gt;
-
-&lt;p&gt;You can try the evidence!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.&lt;/span&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;evidence&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;side-by-side&quot;&gt;Side-by-side&lt;/h2&gt;
-
-&lt;p&gt;Like the &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt; component.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Image&lt;/strong&gt; on the left and &lt;strong&gt;Text&lt;/strong&gt; on the right:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;side-by-side&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toleft&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/assets/images/profile.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Alt Text&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;caption&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo by John Doe&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toright&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;http://localhost:4000/assets/images/profile.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Text&lt;/strong&gt; on the left and &lt;strong&gt;Image&lt;/strong&gt; on the right:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;side-by-side&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toleft&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toright&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/assets/images/profile.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Alt Text&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;caption&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo by John Doe&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;http://localhost:4000/assets/images/profile.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;star&quot;&gt;Star&lt;/h2&gt;
-
-&lt;p&gt;You can give evidence to a post. Just add the tag to the markdown file.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;star: true&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;especial-breaker&quot;&gt;Especial Breaker&lt;/h2&gt;
-
-&lt;p&gt;You can add a especial &lt;em&gt;hr&lt;/em&gt; to your text.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;breaker&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;spoiler&quot;&gt;Spoiler&lt;/h2&gt;
-
-&lt;p&gt;You can add an especial hidden content that appears on hover.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;spoiler&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;p&amp;gt;&lt;/span&gt;your content&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;spoiler&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;gist&quot;&gt;Gist&lt;/h2&gt;
-
-&lt;p&gt;You can add Gists from github.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/91ff4220480727b47224245ee2e9c291 % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;noscript&gt;&lt;pre&gt;&amp;lt;!DOCTYPE html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-    &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
-    &amp;lt;title&amp;gt;Just a Test!&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;h1&amp;gt;Working!&amp;lt;/h1&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/sergiokopplin/91ff4220480727b47224245ee2e9c291.js&quot;&gt; &lt;/script&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;codepen&quot;&gt;Codepen&lt;/h2&gt;
-
-&lt;p&gt;You can add Pens from Codepen.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;268&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-theme-id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-slug-hash=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gfdDu&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-default-tab=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;result&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-user=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;chriscoyier&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'codepen'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    See the Pen &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://codepen.io/chriscoyier/pen/gfdDu/'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; by Chris Coyier (&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://codepen.io/chriscoyier'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;@chriscoyier&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;) on &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://codepen.io'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;CodePen&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;.
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//assets.codepen.io/assets/embed/ei.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;gfdDu&quot; data-default-tab=&quot;result&quot; data-user=&quot;chriscoyier&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/chriscoyier/pen/gfdDu/&quot;&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;/a&gt; by Chris Coyier (&lt;a href=&quot;http://codepen.io/chriscoyier&quot;&gt;@chriscoyier&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;slideshare&quot;&gt;Slideshare&lt;/h2&gt;
-
-&lt;p&gt;Add your presentations here!&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;marginwidth=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;marginheight=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;scrolling=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;no&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l&quot; width=&quot;560&quot; height=&quot;310&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;videos&quot;&gt;Videos&lt;/h2&gt;
-
-&lt;p&gt;Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>jamesfoster</name></author><category term="blog" /><category term="markdown" /><category term="components" /><category term="extra" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Markdown Common Elements</title><link href="http://localhost:4000/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" /><published>2016-02-24T22:44:00+01:00</published><updated>2016-02-24T22:44:00+01:00</updated><id>http://localhost:4000/markdown-common-elements</id><content type="html" xml:base="http://localhost:4000/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
-
-&lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
-
-&lt;h3 id=&quot;comum-elements&quot;&gt;Comum Elements&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#basic-formatting&quot;&gt;Basic formatting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#headings&quot;&gt;Headings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lists&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#paragraph-modifiers&quot;&gt;Paragraph Modifiers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#urls&quot;&gt;Urls&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#horizontal-rule&quot;&gt;Horizontal Rule&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#images&quot;&gt;Images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
-
-&lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;And that’s how to do it.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;/h2&gt;
-
-&lt;p&gt;There are six levels of headings. They correspond with the six levels of HTML headings. You’ve probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.&lt;/p&gt;
-
-&lt;h1 id=&quot;headings-can-be-small&quot;&gt;Headings can be small&lt;/h1&gt;
-
-&lt;h2 id=&quot;headings-can-be-small-1&quot;&gt;Headings can be small&lt;/h2&gt;
-
-&lt;h3 id=&quot;headings-can-be-small-2&quot;&gt;Headings can be small&lt;/h3&gt;
-
-&lt;h4 id=&quot;headings-can-be-small-3&quot;&gt;Headings can be small&lt;/h4&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;# Heading
-## Heading
-### Heading
-#### Heading&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
-
-&lt;h3 id=&quot;ordered-list&quot;&gt;Ordered list&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Item 1&lt;/li&gt;
-  &lt;li&gt;A second item&lt;/li&gt;
-  &lt;li&gt;Number 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;1. Item 1
-2. A second item
-3. Number 3&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered list&lt;/h3&gt;
+&lt;p&gt;I mean, 2017 has been a great year for me so far.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;An item&lt;/li&gt;
-  &lt;li&gt;Another item&lt;/li&gt;
-  &lt;li&gt;Yet another item&lt;/li&gt;
-  &lt;li&gt;And there’s more…&lt;/li&gt;
+  &lt;li&gt;I started writing Javascript in March.&lt;/li&gt;
+  &lt;li&gt;It’s October and I can build solid scalable web apps using the MEAN stack.&lt;/li&gt;
+  &lt;li&gt;I write TypeScript to a solid level.&lt;/li&gt;
+  &lt;li&gt;And to top it, I can write micro libraries too.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* An item
-* Another item
-* Yet another item
-* And there's more...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Whoa! A year full of Javascript.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;h1 id=&quot;yoruba-names&quot;&gt;&lt;a href=&quot;https://github.com/mczlatan/yoruba-names&quot;&gt;yoruba-names&lt;/a&gt;&lt;/h1&gt;
 
-&lt;h2 id=&quot;paragraph-modifiers&quot;&gt;Paragraph modifiers&lt;/h2&gt;
+&lt;p&gt;I had dirty data scraped off &lt;a href=&quot;http://www.yorubaname.com/&quot;&gt;yorubaname.com&lt;/a&gt; for a while now and I didn’t know what to do with it. I decided to build a JavaScript library around it.&lt;/p&gt;
 
-&lt;h3 id=&quot;quote&quot;&gt;Quote&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/mczlatan/yoruba-names&quot;&gt;yoruba-names&lt;/a&gt; allows you to generate a random yoruba name. You can combine two names also to get a full name, and you can return any specifeid amount of names you want generated too.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;&amp;gt; Here is a quote. What this is should be self explanatory.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;urls&quot;&gt;URLs&lt;/h2&gt;
-
-&lt;p&gt;URLs can be made in a handful of ways:&lt;/p&gt;
+&lt;h2 id=&quot;challenges&quot;&gt;Challenges&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;A named link to &lt;a href=&quot;http://www.markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Another named link to &lt;a href=&quot;http://markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sometimes you just want a URL like &lt;a href=&quot;http://markitdown.net/&quot;&gt;http://markitdown.net/&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;I had no idea how or where to start from&lt;/li&gt;
+  &lt;li&gt;I knew this would be a lot of work&lt;/li&gt;
+  &lt;li&gt;I was scared because i didn’t want this to be another half way abandoned project lost somewhere on my computer.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like &amp;lt;http://markitdown.net/&amp;gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;horizontal-rule&quot;&gt;Horizontal rule&lt;/h2&gt;
-
-&lt;p&gt;A horizontal rule is a line that goes across the middle of the page.
-It’s sometimes handy for breaking things up.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;---&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-
-&lt;p&gt;Markdown can also contain images. I’ll need to add something here sometime.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure Caption&lt;/em&gt;?&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]
-&amp;lt;figcaption class=&quot;caption&quot;&amp;gt;Photo by John Doe&amp;lt;/figcaption&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-
-&lt;p&gt;&lt;em&gt;Bigger Images&lt;/em&gt;?&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]{: class=&quot;bigger-image&quot; }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
-
-&lt;p&gt;A HTML Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;lang=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;en&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;UTF-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;Document&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Just a test&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A CSS Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;.8em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;white-space&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;tt&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Monaco&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Consolas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Inconsolata&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;monospace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sans-serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rgba&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;.05&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A JS Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Sticky Header&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;900&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'show-menu'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'show-menu'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">:ramen: Yoruba-Names</title><link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title=":ramen: Yoruba-Names" /><published>2016-01-23T22:10:00+01:00</published><updated>2016-01-23T22:10:00+01:00</updated><id>http://localhost:4000/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;What has inside?&lt;/p&gt;
+&lt;h2 id=&quot;how-i-started&quot;&gt;How I started&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;Travis&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Google everything literally&lt;/li&gt;
+  &lt;li&gt;Took a course on &lt;a href=&quot;https://egghead.io/&quot;&gt;eggheads.io&lt;/a&gt; that was remendously helpful&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">:ramen: Nigerians.js</title><link href="http://localhost:4000/indigo-jekyll-theme.3/" rel="alternate" type="text/html" title=":ramen: Nigerians.js" /><published>2016-01-23T22:10:00+01:00</published><updated>2016-01-23T22:10:00+01:00</updated><id>http://localhost:4000/indigo-jekyll-theme.3</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme.3/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;What has inside?&lt;/p&gt;
+&lt;h2 id=&quot;tools-i-used&quot;&gt;Tools I used&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;Travis&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com&quot;&gt;Git and Github&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://nodejs.org&quot;&gt;NodeJS&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;https://www.npmjs.com&quot;&gt;NPM&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://mochajs.org&quot;&gt;Mocha&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;chaijs.com&quot;&gt;Chai&lt;/a&gt;&lt;/strong&gt; for testing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.npmjs.com/package/semantic-release-cli&quot;&gt;Semantic-Release-Cli&lt;/a&gt;&lt;/strong&gt; for automatic deployment and release&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.npmjs.com/package/commitizen&quot;&gt;Commitizen&lt;/a&gt;&lt;/strong&gt; for writing and making proper commits&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://travis-ci.org&quot;&gt;TravisCI&lt;/a&gt;&lt;/strong&gt; for Continious Integrations&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.npmjs.com/package/ghooks&quot;&gt;Ghooks&lt;/a&gt;&lt;/strong&gt; for automatically running tests before commits&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.npmjs.com/package/istanbul&quot;&gt;Istanbul&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;https://codecov.io&quot;&gt;CodeCov&lt;/a&gt;&lt;/strong&gt; for code coverage&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://webpack.js.org&quot;&gt;WebPack&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;https://babeljs.io&quot;&gt;Babel&lt;/a&gt;&lt;/strong&gt; for building and compiling for browser&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;h2 id=&quot;experience&quot;&gt;Experience&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">:ramen: Povies</title><link href="http://localhost:4000/indigo-jekyll-theme.2/" rel="alternate" type="text/html" title=":ramen: Povies" /><published>2016-01-23T22:10:00+01:00</published><updated>2016-01-23T22:10:00+01:00</updated><id>http://localhost:4000/indigo-jekyll-theme.2</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme.2/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;What has inside?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jesus Christ, it was haaaaaaarrrrrrrdddddddd&lt;/strong&gt;, I won’t sugar coat it.
+Like this is the simplest form of a JavaScript micro library and it was this hard?
+But nevertheless:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;Travis&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;It was hard one more time&lt;/li&gt;
+  &lt;li&gt;It was fun&lt;/li&gt;
+  &lt;li&gt;Learnt a lot about tools used in building from scratch to deployment&lt;/li&gt;
+  &lt;li&gt;I learnt a bit of ES6&lt;/li&gt;
+  &lt;li&gt;I felt like i was progressing (I am actually)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;h1 id=&quot;in-conclusion&quot;&gt;In conclusion&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">:ramen: Stoner</title><link href="http://localhost:4000/indigo-jekyll-theme.1/" rel="alternate" type="text/html" title=":ramen: Stoner" /><published>2016-01-23T22:10:00+01:00</published><updated>2016-01-23T22:10:00+01:00</updated><id>http://localhost:4000/indigo-jekyll-theme.1</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme.1/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Lol, I really don’t know how to conclude but I hope you understand.&lt;/p&gt;
 
-&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
+&lt;p&gt;If you’ve got questions about &lt;a href=&quot;https://github.com/mczlatan/yoruba-names&quot;&gt;yoruba-names&lt;/a&gt; or tools I used when building, &lt;a href=&quot;/&quot;&gt;tweet at me&lt;/a&gt;. I tweet and retweet about the latest dev and sec stuffs.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Cheers!!! ✌✌✌&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="javascript" /><category term="yoruba-names" /><category term="git" /><category term="github" /><category term="nodejs" /><category term="mocha" /><category term="travis-ci" /><category term="webpack" /><category term="es6" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-13.jpg" /></entry><entry><title type="html">Captain Freeze</title><link href="http://localhost:4000/captain-freeze/" rel="alternate" type="text/html" title="Captain Freeze" /><published>2017-10-27T00:00:00+01:00</published><updated>2017-10-27T00:00:00+01:00</updated><id>http://localhost:4000/captain-freeze</id><content type="html" xml:base="http://localhost:4000/captain-freeze/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-14.jpg&quot; alt=&quot;Captain Freeze&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;What has inside?&lt;/p&gt;
+&lt;p&gt;If you still use Python 2.7, let me see your hands up 👋. Don’t be shy about it. &lt;a href=&quot;https://pythonclock.org/&quot;&gt;Python Clock&lt;/a&gt; shows a count down to an assumed date when Python 2.7 will no longer be maintained. Time to start embracing Python 3.x.&lt;/p&gt;
+
+&lt;h1 id=&quot;do-you-agree&quot;&gt;Do you agree?&lt;/h1&gt;
+
+&lt;p&gt;Python is a great language, useful in many ways, it has a large community, lots and lots of libraries, easy to use package manager, etc, etc.&lt;/p&gt;
+
+&lt;p&gt;As time goes by and you work on different projects, you end up installing so many packages. Some of these pakages maybe used accross different projects, and some you’ll never use again.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-concern&quot;&gt;The Concern&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Last month, &lt;a href=&quot;https://www.bleepingcomputer.com/news/security/ten-malicious-libraries-found-on-pypi-python-package-index/&quot;&gt;10 Malicious packages were found on PYPI&lt;/a&gt;. I’m not sure how many of us out there heard of this news. Just to be sure you are safe, you might want to run the command below and if any of the packages are found, you should uninstall them and reinstall the original package:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pip freeze | &lt;span class=&quot;nb&quot;&gt;grep&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'acqusition\|apidev-coop\|bzip\|crypt\|django-server\|pwd\|setup-tools\|telnet\|urlib3\|urllib'&lt;/span&gt; | &lt;span class=&quot;nb&quot;&gt;grep&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'acquisition\|apidev-coop_cms\|bz2file\|crypto\|django-server-guardian-api\|pwdhash\|setuptools\|telnetsrvlib\|urllib3'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Security breaches come in many forms. Most exploits are usually carried out on outdated softwares (well except for zero days). This made me realize that I had a lot of outdated packages and this means I was open to vulnerabilities and I also lacked bug fixes and new features in libraries I had installed.&lt;/p&gt;
+
+&lt;h2 id=&quot;updating-like-a-boss-&quot;&gt;Updating like a boss 😎&lt;/h2&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'import pip, subprocess; [subprocess.call(&quot;pip install -U &quot; + package.project_name, shell=1) for package in pip.get_installed_distributions()]'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;SPOILER:&lt;/strong&gt; understanding list comprehension is needed to understand the command above.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;Travis&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-c&lt;/code&gt; argument which allows you pass in small valid python codes as a string from your terminal&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;for package in pip.get_installed_distributions()&lt;/code&gt; iterates over every of your installed packages, and for every &lt;code class=&quot;highlighter-rouge&quot;&gt;package&lt;/code&gt;, it appends the package name &lt;code class=&quot;highlighter-rouge&quot;&gt;package.project_name&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;pip install -U&lt;/code&gt; command.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;subprocess.call()&lt;/code&gt; is a function defined in the subprocess package and what it does is to take commands run them like it’s from your terminal.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;h1 id=&quot;in-conclusion&quot;&gt;In conclusion&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry></feed>
+&lt;p&gt;Always keep your libraries, softwares, and operating systems up to date.&lt;/p&gt;
+
+&lt;p&gt;Yea, &lt;a href=&quot;/&quot;&gt;keep your self updated too by following me on twitter&lt;/a&gt;. I tweet and retweet about the latest dev and sec stuffs.&lt;/p&gt;
+
+&lt;p&gt;Cheers!!! ✌✌✌&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="python" /><category term="security" /><category term="hacker" /><category term="pip" /><category term="pypi" /><category term="freeze" /><category term="malware" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-14.jpg" /></entry><entry><title type="html">Mama PUT, Aboki PATCH</title><link href="http://localhost:4000/mama-put-aboki-patch/" rel="alternate" type="text/html" title="Mama PUT, Aboki PATCH" /><published>2017-09-20T00:00:00+01:00</published><updated>2017-09-20T00:00:00+01:00</updated><id>http://localhost:4000/mama-put-aboki-patch</id><content type="html" xml:base="http://localhost:4000/mama-put-aboki-patch/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-12.jpg&quot; alt=&quot;Mama PUT, Aboki PATCH&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lol, I very much know the title of this blog sounds out of place but don’t pay much attention to it just yet.&lt;/p&gt;
+
+&lt;h1 id=&quot;big-terms-used-in-this-post&quot;&gt;Big terms used in this post&lt;/h1&gt;
+
+&lt;p&gt;Below are some of the big words in this post:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Mama Put:&lt;/strong&gt; The local food vendor that sells the most delicious food in your area. If you are in Lagos, Nigeria, &lt;strong&gt;&lt;a href=&quot;https://blog.ofadaa.com/best-buka-mama-put-joints-lagos/&quot;&gt;this is a list of the best Mama Puts in town&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aboki:&lt;/strong&gt; An &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hausa_language&quot;&gt;Hausa&lt;/a&gt;&lt;/strong&gt; word that means &lt;em&gt;“Friend”&lt;/em&gt;. But in Lagos, it’s used to refer to men from the Hausa tribe from the Northern part of Nigeria that do menial jobs like &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Okada_(motorcycle_taxi)&quot;&gt;Okada&lt;/a&gt;&lt;/strong&gt; driving, sewing of clothes in a local area, waste disposal and management, etc.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Iya Tunde:&lt;/strong&gt; The name of the Mama Put in my area.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Idempotency:&lt;/strong&gt; It has nothing to do with being potent or not. Just see it as a flashy word for now.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;inspiration-for-this-post-and-title&quot;&gt;Inspiration for this post and title&lt;/h1&gt;
+
+&lt;p&gt;Last Saturday, i had nowhere to go to and was super lazy. After dragging myself off my bed at about 1pm, i was hungry and needed to get something to eat. I decided to look for Mama Put.&lt;/p&gt;
+
+&lt;p&gt;My search was successful. I found a neat place, she had a variety of food to pick from, the food looked super delicious. It was a cool Saturday, so i decided to eat at her place, observe the environment and receive breeze rather than taking the food back home with me.&lt;/p&gt;
+
+&lt;p&gt;After devouring round one of the food, i looked up to ask Iya Tunde to “PUT” more food for me then i noticed an Aboki not far off “PATCHing” the clothes of one of his customers.&lt;/p&gt;
+
+&lt;p&gt;Then i said to myself, “What a scenario! A very good way to explain HTTP methods PUT and PATCH with their use cases while building APIs!!!”&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;HTTP methods are simply action words used to perform certain actions over HTTP. Most tutorials you’ll find on the internet make use of four popular methods but there are more than four methods that could be used depending on the kind and functions of the API you want to build.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Sn&lt;/th&gt;
+      &lt;th&gt;Method&lt;/th&gt;
+      &lt;th&gt;Meaning&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;GET&lt;/td&gt;
+      &lt;td&gt;Fetch an existing resource from a host.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;POST&lt;/td&gt;
+      &lt;td&gt;Create a new resource on a host.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;PUT&lt;/td&gt;
+      &lt;td&gt;Replace a resource on a host with a new resource.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;DELETE&lt;/td&gt;
+      &lt;td&gt;Remove a resource on a host.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;PATCH&lt;/td&gt;
+      &lt;td&gt;Modify a resource on a host.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;OPTIONS&lt;/td&gt;
+      &lt;td&gt;Specifies communication options for a resource on a host.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;HEAD&lt;/td&gt;
+      &lt;td&gt;Same as the GET method but it only sends back the Status and headers if access to the resource is successful.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;CONNECT&lt;/td&gt;
+      &lt;td&gt;Establishes a tunnel to a host.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;TRACE&lt;/td&gt;
+      &lt;td&gt;Performs a message loopback test along the path to a target resource.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;mama-put&quot;&gt;Mama PUT&lt;/h1&gt;
+&lt;p&gt;From the scenario in the inspiration for this post, I needed to replace the devoured food from the first round. 
+This is the right use case for the PUT method. The PUT should be used when we want to update a resource (update the content of my plate like i was about to ask Iya Tunde to do). There are a couple of downside to using PUT to update a resource&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We would be asking clients to send the entire resource.&lt;/li&gt;
+  &lt;li&gt;Sending a complete resource representation utilizes more bandwidth.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;PUT /users/userId123
+
+{
+    &quot;email&quot;: &quot;user123@example.ng&quot;,
+    &quot;balance&quot;: 12000
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;aboki-patch&quot;&gt;Aboki PATCH&lt;/h1&gt;
+
+&lt;p&gt;From the scenario in the inspiration for this post, Before you give the Aboki your clothes to patch,
+you need to describe and show him the area of the cloth to patch. This is also the way PATCH works. The biggest challenge with
+this method is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Its usage misunderstood.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The PATCH method requests that a set of changes, described in the request entity, must be applied to the resource identified by the request’s URI. This set contains instructions describing how a resource currently residing on the origin server should be modified to produce a new version.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wrong Example Usage 1:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;PATCH /users/userId123
+
+{ &quot;balance&quot;: 10000 }
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Wrong Example Usage 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;PATCH /users/userId123?balance=15000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Correct Example Usage:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;PATCH /users/userId123
+
+[
+    { &quot;op&quot;: &quot;replace&quot;, &quot;path&quot;: &quot;/balance&quot;, &quot;value&quot;: 50000 }
+]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;some-questions&quot;&gt;Some Questions&lt;/h1&gt;
+
+&lt;p&gt;There have been some questions, confusion about PUT and PATCH.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What on earth is &lt;em&gt;“Idempotence”&lt;/em&gt;?&lt;/li&gt;
+  &lt;li&gt;Why isn’t PATCH idempotent if it is a special case of PUT, which is idempotent?&lt;/li&gt;
+  &lt;li&gt;Why PATCH is not safe when compared to PUT or POST?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;question-1&quot;&gt;Question 1&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;What on earth is Idempotence?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.restapitutorial.com/&quot;&gt;restapitutorial.com&lt;/a&gt; has done a great job in explaining what this is.&lt;/p&gt;
+
+&lt;p&gt;From a RESTful service standpoint, for an operation (or service call) to be idempotent,
+clients can make that same call repeatedly while producing the same result.
+In other words, making multiple identical requests has the same effect as
+making a single request. Note that while idempotent operations produce
+the same result on the server (no side effects), the response itself may
+not be the same (e.g. a resource’s state may change between requests).&lt;/p&gt;
+
+&lt;p&gt;The PUT and DELETE methods are defined to be idempotent. However, there is a caveat on DELETE. The problem with DELETE, which if successful would normally return a 200 (OK) or 204 (No Content), will often return a 404 (Not Found) on subsequent calls, unless the service is configured to “mark” resources for deletion without actually deleting them. However, when the service actually deletes the resource, the next call will not find the resource to delete it and return a 404. However, the state on the server is the same after each DELETE call, but the response is different.&lt;/p&gt;
+
+&lt;p&gt;GET, HEAD, OPTIONS and TRACE methods are defined as safe, meaning they are only intended for retrieving data. This makes them idempotent as well since multiple, identical requests will behave the same.&lt;/p&gt;
+
+&lt;h1 id=&quot;question-2&quot;&gt;Question 2&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Why isn’t PATCH idempotent if it is a special case of PUT, which is idempotent?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A very simple answer would be because PUT contains a “new representation” of a resource, while PATCH contain “a set of changes” to a resource.&lt;/p&gt;
+
+&lt;h1 id=&quot;question-3&quot;&gt;Question 3&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Why PATCH is not safe when compared to PUT or POST?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Safe in terms of REST refers to wether a method can modify a resource. From this meaning, neither PATCH, PUT, POST, DELETE or CONNECT is safe.
+GET, HEAD and OPTIONS are safe.&lt;/p&gt;
+
+&lt;h1 id=&quot;extras&quot;&gt;Extras&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mozila Web &lt;strong&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT&quot;&gt;Doc&lt;/a&gt;&lt;/strong&gt; on HTTP PUT&lt;/li&gt;
+  &lt;li&gt;Mozila Web &lt;strong&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH&quot;&gt;Doc&lt;/a&gt;&lt;/strong&gt; on HTTP PATCH&lt;/li&gt;
+  &lt;li&gt;Indempotence in Cows and REST APIs &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6dVNdFwqeKs&quot;&gt;on Youtube&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;I hope i have been able to show you the difference and use cases rather than 
+confuse you about HTTP PUT and PATCH ✌✌✌✌✌✌✌✌✌✌&lt;/p&gt;
+
+&lt;p&gt;Also feel free to &lt;a href=&quot;/&quot;&gt;Tweet at me&lt;/a&gt;, It would be a priviledge to chat with you.&lt;/p&gt;
+
+&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="REST" /><category term="API" /><category term="HTTP" /><category term="aboki" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-12.jpg" /></entry><entry><title type="html">GraphQL and Chill</title><link href="http://localhost:4000/graphql-and-chill/" rel="alternate" type="text/html" title="GraphQL and Chill" /><published>2017-08-31T00:00:00+01:00</published><updated>2017-08-31T00:00:00+01:00</updated><id>http://localhost:4000/graphql-and-chill</id><content type="html" xml:base="http://localhost:4000/graphql-and-chill/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-11.jpg&quot; alt=&quot;GraphQL and Chill&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yaay guys, this will be the first guest post on my blog and I’m super excited.
+I got a request from a friend. He had been following up with my post and wanted to feature, so why not?&lt;/p&gt;
+
+&lt;h1 id=&quot;lets-meet-ajani-eniola&quot;&gt;Let’s Meet &lt;a href=&quot;https://twitter.com/ajani_eniola&quot;&gt;Ajani Eniola&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;I’m Ajani Eniola and here are a couple of interesting things about me:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Progressive Web Application (PWA) Developer.&lt;/li&gt;
+  &lt;li&gt;I also do MEAN Stack Development.&lt;/li&gt;
+  &lt;li&gt;I preach RxJS observables.&lt;/li&gt;
+  &lt;li&gt;I’m probably one of the few tall guys in the world that don’t play basketball.&lt;/li&gt;
+  &lt;li&gt;I love slow music too.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Can &lt;a href=&quot;https://en.wikipedia.org/wiki/Representational_state_transfer&quot;&gt;REST&lt;/a&gt; truly be replaced?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you had asked me this question exactly 9:05 am August 11 2017, trust me my reply would have been &lt;em&gt;“ko le work”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I should have been at the last meetup at Andela but because of a couple of unplanned events, I was unable to attend.
+While going through pictures from the event on twitter, I saw a slide from a presentation made by &lt;a href=&quot;https://twitter.com/timigod&quot;&gt;&lt;strong&gt;@timigod&lt;/strong&gt;&lt;/a&gt; on &lt;a href=&quot;http://graphql.org/&quot;&gt;&lt;strong&gt;GraphQL&lt;/strong&gt;&lt;/a&gt;. Since then, I picked up interest in it and also discovered technologies like &lt;a href=&quot;https://www.npmjs.com/package/appolo&quot;&gt;&lt;strong&gt;Apollo&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;https://facebook.github.io/relay/&quot;&gt;&lt;strong&gt;Relay&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;graphql-experience&quot;&gt;&lt;a href=&quot;http://graphql.org&quot;&gt;GraphQL&lt;/a&gt; Experience&lt;/h2&gt;
+
+&lt;p&gt;GraphQL has been around since 2012 and used internally at &lt;a href=&quot;https://www.facebook.com&quot;&gt;&lt;strong&gt;Facebook&lt;/strong&gt;&lt;/a&gt; but became open source for the public this year. Big boys like &lt;a href=&quot;https://github.com&quot;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt; currently have their public APIs built on GraphQL.&lt;/p&gt;
+
+&lt;p&gt;While getting my hands dirty, I played around with &lt;a href=&quot;https://www.graph.cool/&quot;&gt;&lt;strong&gt;GraphCool&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;https://scaphold.io/&quot;&gt;&lt;strong&gt;Scaphold&lt;/strong&gt;&lt;/a&gt; which are pretty good GraphQL Servers.&lt;/p&gt;
+
+&lt;p&gt;After some reading and trial and errors, I was able to build my own graphql server using &lt;a href=&quot;https://www.mongodb.com/&quot;&gt;&lt;strong&gt;MongoDB&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&quot;https://expressjs.com&quot;&gt;&lt;strong&gt;Express JS&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;https://nodejs.org&quot;&gt;&lt;strong&gt;NodeJS&lt;/strong&gt;&lt;/a&gt;. I hooked this spectacular backend to my front end that runs on &lt;a href=&quot;https://www.npmjs.com/package/angular2-apollo&quot;&gt;&lt;strong&gt;angular2 apollo&lt;/strong&gt;&lt;/a&gt; for handling request from the GraphQL backend.&lt;/p&gt;
+
+&lt;p&gt;The purpose of this experiment was to compare the time required for both a GraphQL Server and A RESTful API to handle and process a request. After setting up the two different environment, the GraphQL server used 5.22ms to return data to the client, while the RESTful API took 131.87ms to return the same data to the same client. I bet even &lt;strong&gt;The Flash&lt;/strong&gt; can’t beat that!!!&lt;/p&gt;
+
+&lt;h1 id=&quot;in-conclusion&quot;&gt;In conclusion&lt;/h1&gt;
+
+&lt;p&gt;In terms of access to the open source community, GraphQL is still in its early stages. There are still a lot of debates about it which will have effects on the adoption rate, but from this basic experiment, it is safe to say GraphQL is very fast in fetching data from a server and should be given a shot by developers.&lt;/p&gt;
+
+&lt;h1 id=&quot;development&quot;&gt;Development&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ajanieniolasolomon/graphql-&quot;&gt;My GraphQL server&lt;/a&gt; is hosted on Github.&lt;/p&gt;
+
+&lt;p&gt;Want to contribute? Great!
+Fork &lt;a href=&quot;https://github.com/ajanieniolasolomon/graphql-&quot;&gt;the project&lt;/a&gt; and send in a pull request.&lt;/p&gt;
+
+&lt;p&gt;Also feel free to &lt;a href=&quot;https://twitter.com/ajani_eniola&quot;&gt;Tweet at me&lt;/a&gt;, I’ll be glad to brainstorm with you.&lt;/p&gt;
+
+&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="graphql" /><category term="PWA" /><category term="REST" /><category term="API" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-11.jpg" /></entry><entry><title type="html">Storage for Usage</title><link href="http://localhost:4000/storage-for-usage/" rel="alternate" type="text/html" title="Storage for Usage" /><published>2017-08-17T00:00:00+01:00</published><updated>2017-08-17T00:00:00+01:00</updated><id>http://localhost:4000/storage-for-usage</id><content type="html" xml:base="http://localhost:4000/storage-for-usage/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-09.jpg&quot; alt=&quot;Storage for Usage&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;sto-well-to-avoid-rage&quot;&gt;“Sto” well to avoid “rage”&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-txt&quot;&gt;That your awesome (Web or Hybrid) app would be awescome if 
+your users could use it offline.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Up until now when my current employer is starting to preach about offline capable mobile apps, i have never bothered about
+building offline capable apps. My employer’s preaching got to me and i decided to look into developing proper offline
+capable mobile apps that even support offline login and authentication and some basic crud operations.&lt;/p&gt;
+
+&lt;h1 id=&quot;spells-that-make-it-possible&quot;&gt;Spells that make it possible&lt;/h1&gt;
+
+&lt;p&gt;Personally, i have a good habit i think other developers should also adapt. I took my time to search and understand the
+different ways i could go about implementing a good solution, rather than “follow trend”. Sometimes trending technology could be
+the best solution too, but better understanding of all available options allows you make better and informed decisions.&lt;/p&gt;
+
+&lt;p&gt;After looking stuff around, i ended up with a number of options for implementation.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Localstorage&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sqlite.org&quot;&gt;SQLite&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://pouchdb.com/&quot;&gt;PouchDB&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;LokiJS&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;localstorage&quot;&gt;Localstorage&lt;/h2&gt;
+
+&lt;p&gt;Localstorage is the most common method and simples of storing in app data. It allows you to store
+data in key-value pairs.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It has a limit of 5mb accross all platforms (Android and iOS).&lt;/li&gt;
+  &lt;li&gt;You shouldn’t use this for data you want to persist. iOS clears the data once the OS is low in memory
+and there are reports of data loss also on Android. If you are fetching data from a server, this would be a great way to
+save the data and usse in app rather than making multiple API calls for the same data.&lt;/li&gt;
+  &lt;li&gt;It can only store strings.&lt;/li&gt;
+  &lt;li&gt;It can store objects and array too but you’ll have to convert them to JSON for storing and retrieving.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are frameworks built on top of localstorage such as &lt;a href=&quot;https://github.com/gsklee/ngStorage&quot;&gt;ngStorage&lt;/a&gt;
+and &lt;a href=&quot;https://github.com/mozilla/localForage&quot;&gt;localForage&lt;/a&gt;.
+A simple usage in code might look like:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;c1&quot;&gt;// simple example&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;localStorage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'country'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;localStorage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'country'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;// complex example&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;records&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;country&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;country&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'usa'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;localStorage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'records'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;records&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;output&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;parse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;localStorage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'records'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;table&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;sqlite&quot;&gt;&lt;a href=&quot;https://www.sqlite.org&quot;&gt;SQLite&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Basically, SQLite is an embedded SQL database. So rather than have your database separate from your application,
+you have it in your application. If you are familiar with SQL you shouldn’t have a problem with this. I’ll be using
+&lt;a href=&quot;https://github.com/litehelpers/Cordova-sqlite-storage&quot;&gt;the cordova-sqlite-storage&lt;/a&gt; as a basis for this discussion.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It has support on all major platform.&lt;/li&gt;
+  &lt;li&gt;It uses SQL syntax, although there are &lt;strong&gt;&lt;a href=&quot;http://www.tutorialspoint.com/sqlite/sqlite_overview.htm&quot;&gt;a few differences&lt;/a&gt;&lt;/strong&gt;
+between SQL and SQLite commands.&lt;/li&gt;
+  &lt;li&gt;There seems to be no limit to the size but after digging deep trying to find the limit,
+&lt;strong&gt;&lt;a href=&quot;https://github.com/litehelpers/Cordova-sqlite-storage/issues/174#issuecomment-83019399&quot;&gt;there was an issue&lt;/a&gt;&lt;/strong&gt;
+raised on github that limited the size to about a 100mb.&lt;/li&gt;
+  &lt;li&gt;Data loss depends on you following good practices or not.
+&lt;strong&gt;&lt;a href=&quot;https://github.com/litehelpers/Cordova-sqlite-storage#avoiding-data-loss&quot;&gt;There’s a guide here on how to avoid data loss when using this as your storage&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Be careful with BLOBs. Find a more comprehensive
+&lt;strong&gt;&lt;a href=&quot;https://github.com/litehelpers/Cordova-sqlite-storage#pitfalls&quot;&gt;note on some pitfalls here&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A simple usage in code might look like:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;c1&quot;&gt;// to open a database&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addEventListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'deviceready'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sqlitePlugin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;openDatabase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'countries.db'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;location&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'default'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;// to populate a database&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;transaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;executeSql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'CREATE TABLE IF NOT EXISTS Countries (name, no_of_states)'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;executeSql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'INSERT INTO Countries VALUES (?,?)'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;executeSql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'INSERT INTO Countries VALUES (?,?)'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'usa'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Transaction ERROR: '&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Populated database OK'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;// to retrieve data from a database&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;transaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;executeSql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'SELECT count(*) AS FROM Countries'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[],&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Record count (expected to be 2): '&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;rows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mycount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'SELECT error: '&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;pouchdb&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://pouchdb.com/&quot;&gt;PouchDB&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;PouchDB is an open-source JavaScript database inspired by Apache CouchDB. It uses IndexedDB under the hood and falling back to WebSQL where IndexedDB isn’t supported. You can use it with Angular, React, Ember, Backbone, or your framework of choice.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It uses the NoSQL syntax.&lt;/li&gt;
+  &lt;li&gt;Supported on most modern platforms.&lt;/li&gt;
+  &lt;li&gt;Since it’s NoSQL, you can directly store JSON data and retrieve it as it is.&lt;/li&gt;
+  &lt;li&gt;It can store up to 250mb of data.&lt;/li&gt;
+  &lt;li&gt;It comes with a built in function that allows you to sync your offline data with your cloud databases instances that implement a CouchDB-like protocol, and PouchDB.&lt;/li&gt;
+  &lt;li&gt;Sadly you can’t sync with MongoDB yet (of date).&lt;/li&gt;
+  &lt;li&gt;BLOBs? No problem.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are frameworks/adapters built on top of it such as
+&lt;strong&gt;&lt;a href=&quot;https://github.com/angular-pouchdb/angular-pouchdb&quot;&gt;angular-pouchdb&lt;/a&gt;&lt;/strong&gt;, 
+&lt;strong&gt;&lt;a href=&quot;https://github.com/jrhicks/ngPouch&quot;&gt;ngPouch&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;https://github.com/danielzen/ng-pouchdb&quot;&gt;ng-pouchdb&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;https://github.com/qurateinc/vue-pouch&quot;&gt;vue-pouch&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;https://github.com/terikon/kendo-pouchdb&quot;&gt;kendo-pouchdb&lt;/a&gt;&lt;/strong&gt;, etc.
+A simple usage in code might look like:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// create a new local database&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;PouchDB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'countries'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// create a new remote database&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;PouchDB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'http://localhost:5984/countries'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// storing a document&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&quot;_id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;c1&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;nigeria&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&quot;no_of_states&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;put&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// retrieving asynchronously by _id the callback way&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'c1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// error stuffs&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// do some stuff with our doc&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// retrieving asynchronously by _id using promise&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'c1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// do some stuff with our doc&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}).&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;catch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// error stuffs&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;lokijs&quot;&gt;LokiJS&lt;/h2&gt;
+
+&lt;p&gt;LokiJS is a lightweight javascript document oriented database. It is intended to be used as an in-memory database, with the possibility of persisting the data.LokiJS draws inspiration from MongoDB and CouchDB, in that the API is similar (but not identical or compliant) to MongoDB. The glossary used is also classic NoSQL in that records are documents, documents are stored in collections.LokiJS supports a limited form of indexing for faster document access. The id field in particular is automaticallly populated and indexed, and searched using the binary search algorithm. Other document properties can be indexed for faster search on a particular object field.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fast Performance.&lt;/li&gt;
+  &lt;li&gt;Replaces SQLite in Cordova, works as a session store and full blown NoSQL.&lt;/li&gt;
+  &lt;li&gt;DB in node.js, works as in-browser database with syncing capabilities.&lt;/li&gt;
+  &lt;li&gt;Indexing, Secondary Indexing, Unique Indexing.&lt;/li&gt;
+  &lt;li&gt;The “Dynamic View”, a kind of “live filter” (self-materializing views).&lt;/li&gt;
+  &lt;li&gt;Persistence Adapters (with a built-in IndexedDB and node.js FS adapter).&lt;/li&gt;
+  &lt;li&gt;Optional periodic autosave.&lt;/li&gt;
+  &lt;li&gt;Changes API which keeps track of all the changes made to the
+local database. You can use this API to synchronize our cloud database.&lt;/li&gt;
+  &lt;li&gt;Compound sort for sorting on multiple columns.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Creating a database&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;loki&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'example.db'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Add a collection :&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addCollection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'countries'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Insert documents&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;insert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'usa'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// alternatively, insert array of documents&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;insert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'usa'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Simple find query&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;results&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'$gte'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;findOne&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;in-conclusion&quot;&gt;In conclusion&lt;/h1&gt;
+
+&lt;p&gt;After my little research into these technologies and comparing the scope of the offline application i want to build, i have made a decision on the tech to use.
+As developers we should do research into the tools and tech we use for projects so we don’t end up with something overkill or underkill.&lt;/p&gt;
+
+&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="storage" /><category term="javascript" /><category term="offline" /><category term="online" /><category term="web" /><category term="hybrid" /><category term="app" /><category term="localstorage" /><category term="sqlite" /><category term="pouchdb" /><category term="lokijs" /><category term="databases" /><category term="browser" /><category term="chrome" /><category term="mobile" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-09.jpg" /></entry><entry><title type="html">Rise of the Machines - 1</title><link href="http://localhost:4000/exploring-slackbots/" rel="alternate" type="text/html" title="Rise of the Machines - 1" /><published>2017-08-16T00:00:00+01:00</published><updated>2017-08-16T00:00:00+01:00</updated><id>http://localhost:4000/exploring-slackbots</id><content type="html" xml:base="http://localhost:4000/exploring-slackbots/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-08.jpg&quot; alt=&quot;Rise of the Machines&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;are-bots-really-the-future&quot;&gt;Are bots really the future?&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-txt&quot;&gt;Microsoft made a teenage bot called Tay that ended up tweeting 
+racist and offensive messages.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/tayandyou&quot;&gt;Follow Tay&lt;/a&gt; on twitter.&lt;/p&gt;
+
+&lt;p&gt;I’ve always wondered about bots and the dark magic behind them and have always wanted to write one,
+even if the only thing it could do was say “Hello World!”.
+Apprently, bots are just:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A simple program that does automated tasks (in-app cron jobs???).&lt;/li&gt;
+  &lt;li&gt;They come in different types: Good bots, bad bots, ugly bots, chat bots, robots, this bot, that bot, etc bots.&lt;/li&gt;
+  &lt;li&gt;and any other interesting stuff you find about bots out there.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;slack-bots&quot;&gt;Slack Bots&lt;/h1&gt;
+
+&lt;p&gt;These days, I spend a lot of time on slack, just after whatsapp and twitter. 
+Apart fro slack being a great place to manage a team or community, the adoption of bots have made that very interesting.
+Currently I’m in 19 open slack communities. This has been a great way to learn new things, share problems, keep up to date
+with the technologies I use, meet new people, etc.&lt;/p&gt;
+
+&lt;p&gt;Recently, there was a need for me to create and start managing an open community. and i saw this as a perfect chance to venture
+into buillding bots starting with Slackbots.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting started&lt;/h2&gt;
+
+&lt;p&gt;I won’t be going into technical details, just a summary of how i was able to build my first 
+slack bot and went ahead to build two other useful and real life applicable slack bots, Stackify nd Gitify Slack Bots.
+I’ll bulletify the summary just because i like the sound of “ify”.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I googled “building your first slack bot”.&lt;/li&gt;
+  &lt;li&gt;I discovered there were two popular way of building bots, using NodeJS and Python.&lt;/li&gt;
+  &lt;li&gt;Also there were different ways of deploying your bot. Two popular way is to use &lt;a href=&quot;https://heroku.com&quot;&gt;Heroku&lt;/a&gt; or self host them.&lt;/li&gt;
+  &lt;li&gt;I decided to use python because i’ve been writing python longer than NodeJS.&lt;/li&gt;
+  &lt;li&gt;I followed &lt;a href=&quot;https://www.fullstackpython.com/blog/build-first-slack-bot-python.html&quot;&gt;a tutorial from Fullstack Python&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;I self hosted it and tested it in the slack community i was building.&lt;/li&gt;
+  &lt;li&gt;And that was how i build my first slack bot.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;stackify-slackbot&quot;&gt;&lt;a href=&quot;https://github.com/mczlatan/stackify-slackbot&quot;&gt;Stackify Slackbot&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This slack bot helps you to search Stack Overflow for matching answers to your issues.
+E.g to search for answers relating to “Broken pipe error” in Java, you would do:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-txt&quot;&gt;@stackify search null pointer error [java]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;How i achieved it:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Python.&lt;/li&gt;
+  &lt;li&gt;Python urllib.&lt;/li&gt;
+  &lt;li&gt;Python Slackclient.&lt;/li&gt;
+  &lt;li&gt;Some Stack Overflow URL manipulations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I self hosted this bot for the community and you can &lt;a href=&quot;https://github.com/mczlatan/stackify-slackbot&quot;&gt;find it here&lt;/a&gt; and also deploy it for your community.&lt;/p&gt;
+
+&lt;h3 id=&quot;gitify-slackbot&quot;&gt;&lt;a href=&quot;https://github.com/mczlatan/gitify-slackbot&quot;&gt;Gitify Slackbot&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This slack bot helps you to search github for users, repositories, codes, issues, and wikis.
+E.g to search for anything on me on github:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-txt&quot;&gt;@gitify search mczlatan
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The above will send a json response with links to wikis, users, repos, codes, etc.
+It can still be optimized to search  for just one catergory.
+How i achieved it:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Python.&lt;/li&gt;
+  &lt;li&gt;Python json.&lt;/li&gt;
+  &lt;li&gt;Python urllib.&lt;/li&gt;
+  &lt;li&gt;Python Slackclient.&lt;/li&gt;
+  &lt;li&gt;Some Github URL manipulations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I self hosted this bot for the community and you can &lt;a href=&quot;https://github.com/mczlatan/gitify-slackbot&quot;&gt;find it here&lt;/a&gt; and also deploy it for your community.&lt;/p&gt;
+
+&lt;h1 id=&quot;development&quot;&gt;Development&lt;/h1&gt;
+
+&lt;p&gt;Want to contribute? Great!
+Fork the projects, send in a pull request.&lt;/p&gt;
+
+&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="slack" /><category term="slackbot" /><category term="microsoft" /><category term="bots" /><category term="robots" /><category term="tay" /><category term="github" /><category term="stackify" /><category term="gitify" /><category term="python" /><category term="pip" /><category term="heroku" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-08.jpg" /></entry><entry><title type="html">Out of Boredom series</title><link href="http://localhost:4000/out-of-boredom-series/" rel="alternate" type="text/html" title="Out of Boredom series" /><published>2017-08-03T00:00:00+01:00</published><updated>2017-08-03T00:00:00+01:00</updated><id>http://localhost:4000/out-of-boredom-series</id><content type="html" xml:base="http://localhost:4000/out-of-boredom-series/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-10.jpg&quot; alt=&quot;Out of Boredom series&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Unboring Boredom Fact&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I did a quick five minute search on google looking for 
+intersting boredom facts.  Guess what? I got bored doing that.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Please don't get bored reading this post.&lt;/p&gt;
+
+&lt;p&gt;
+    I got bored at work today. I had stuff to do but my mortal self didnt want to cooperate. I tried so many activities trying to clear my head. I took a walk, ate, tried to watch a movie, listend to music, etc.  None worked so i gave up. I guess i was bored (of work?)
+&lt;/p&gt;
+
+&lt;p&gt;
+    While scribling and scrambling around, I stumbled on &lt;a href=&quot;https://github.com/akinjide/aboki&quot;&gt;a Github project&lt;/a&gt; 
+    by &lt;a href=&quot;https://github.com/akinjide&quot;&gt;Akinjide Bankole&lt;/a&gt;. The project allows us to view black market currency rate instantly in your terminal! (Nigeria Only) and it worked by scraping data from &lt;a href=&quot;https://www.abokifx.com&quot;&gt;AbokiFX&lt;/a&gt;.
+    Try it out by in your terminal:
+&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo pip install aboki
+
+$ aboki --help
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;okay-so-how-does-this-relate-to-boredom&quot;&gt;Okay so how does this relate to boredom?&lt;/h3&gt;
+&lt;p&gt;
+    Long story short out of boredom, I built a minified API around it and built a mobile app that allows you to see
+    the current exchange rate in US Dollars, Great Britain Pounds and Euros.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;stack-for-the-api&quot;&gt;STACK for the API&lt;/h3&gt;
+&lt;p&gt;
+    &lt;li&gt;Python&lt;/li&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Flask&lt;/li&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Flask-Restful&lt;/li&gt;
+                    &lt;li&gt;Flask-CORS&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;li&gt;Tornado&lt;/li&gt;
+            &lt;li&gt;Aboki&lt;/li&gt;
+        &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;stack-for-the-mobile-app&quot;&gt;STACK for the Mobile App&lt;/h3&gt;
+&lt;p&gt;
+    &lt;li&gt;Ionic 1.x&lt;/li&gt;
+    &lt;ul&gt;
+            &lt;li&gt;Cordova&lt;/li&gt;
+            &lt;li&gt;AngularJS&lt;/li&gt;
+            &lt;li&gt;NodeJS&lt;/li&gt;
+        &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;ok-cool-stuff-but-youve-still-not-said-your-plan-to-conquer-boredom&quot;&gt;Ok cool stuff, but you’ve still not said your plan to conquer boredom&lt;/h3&gt;
+&lt;p&gt;
+    Personally I'll be building small time apps and blogging about them in the &quot;Out of boredom series&quot; when i'm bored so i can 
+    &lt;ul&gt;
+        &lt;li&gt;&quot;Unbore myself&quot;&lt;/li&gt;
+        &lt;li&gt;Still make the best out of lost time&lt;/li&gt;
+        &lt;li&gt;Learn new things&lt;/li&gt;
+        &lt;li&gt;Remain creative&lt;/li&gt;
+        &lt;li&gt;etc, etc, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;wheres-the-api-at&quot;&gt;Where’s the API at?&lt;/h3&gt;
+&lt;p&gt;
+    Hosted on a personal server, but check out
+    &lt;li&gt;
+        &lt;a href=&quot;https://github.com/mczlatan/nairaTo-API&quot;&gt;My Github&lt;/a&gt;.
+    &lt;/li&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;wheres-the-mobile-app-at&quot;&gt;Where’s the Mobile App at?&lt;/h3&gt;
+&lt;p&gt;
+    Get it on
+    &lt;li&gt;
+         &lt;a href=&quot;https://drive.google.com/open?id=0B0bPh_TFeiUZbFZjdndHcFJBRlE&quot;&gt;My Google Drive&lt;/a&gt;.
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;https://github.com/mczlatan/nairaTo&quot;&gt;My Github&lt;/a&gt;.
+    &lt;/li&gt;
+    
+&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="bored" /><category term="flask" /><category term="ionic" /><category term="API" /><category term="github" /><category term="aboki" /><category term="naira" /><category term="python" /><category term="javascript" /><category term="angular" /><category term="cordova" /><category term="hybrid" /><category term="MEAN" /><category term="nodejs" /><category term="mobile" /><category term="app" /><category term="android" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Blogging is hard</title><link href="http://localhost:4000/blogging-is-hard/" rel="alternate" type="text/html" title="Blogging is hard" /><published>2017-07-24T00:00:00+01:00</published><updated>2017-07-24T00:00:00+01:00</updated><id>http://localhost:4000/blogging-is-hard</id><content type="html" xml:base="http://localhost:4000/blogging-is-hard/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-10.jpg&quot; alt=&quot;Blogging is hard&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Quick Story&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ME: January 1: It's a new year. I want to start blogging and I will 
+    write one blog post every week and be famous at the end of the year.
+
+ME: Today:  ...writing my 4th post this year.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Whoaaaa! What a year it has been!&lt;/p&gt;
+
+&lt;p&gt;
+    When this year started, I had big dreams. Write a blog post every week, meet Mark Zuckerberg (tbh this almost happend, i was stucked in traffic to CCHUB, when i got there, Uncle Mark had left **sobs**), launch a rocket, travel the whole world in one week, etc, etc, etc, and right now, I'm far away from those set targets.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;blogging-or-dydx-&quot;&gt;Blogging or dy/dx ?&lt;/h3&gt;
+&lt;p&gt;
+    dy/dx please! 
+&lt;/p&gt;
+
+&lt;h3 id=&quot;why-because-blogging-is-so-difficult-really-it-is&quot;&gt;Why? Because blogging is so difficult. Really, it is.&lt;/h3&gt;
+&lt;p&gt;
+    Blogging for me isn't difficult because
+    &lt;ul&gt;
+        &lt;li&gt;There's no idea of what to write or&lt;/li&gt;
+        &lt;li&gt;Because I don't plan on earning money or&lt;/li&gt;
+        &lt;li&gt;etx, etc, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Blogging for me is difficult because
+    &lt;ul&gt;
+        &lt;li&gt;I don't have time.&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-you-guys-do-it&quot;&gt;How do you guys do it?&lt;/h3&gt;
+&lt;p&gt;
+Personally, I'm going to try to start dedicating more time to blogging. It seems it's 
+needed if you are going to have that bombing tech resume (Because every top tier tech guy I know has a little blog).
+Here's what i plan to do:
+    &lt;ul&gt;
+        &lt;li&gt;Make time for blogging, at least one post a week isn't too bad i think.&lt;/li&gt;
+        &lt;li&gt;Write down everything (every problem) i google everyday and make blog post on the most interesting ones.&lt;/li&gt;
+        &lt;li&gt;Try to be consistent.&lt;/li&gt;
+    &lt;/ul&gt;
+    If you are already familiar with blogging, please feel free to tweet at me to help my career!
+&lt;/p&gt;
+
+&lt;h3 id=&quot;blogging-or-togos-jollof-rice&quot;&gt;Blogging or Togo’s Jollof Rice?&lt;/h3&gt;
+&lt;p&gt;
+Togo's Jollof Rice please! Just because i'm eating Mama Togo's jollof rice right now.
+Techies at yaba can testify to this woman's jollof rice.
+I'm not saying it's better than the Nigerian Jollof tho, but damn ...
+&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="blog" /><category term="jekyll" /><category term="wordpress" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry></feed>
