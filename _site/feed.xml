@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-08T15:29:10+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Wole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Tours With A Lagos Nomad</title><link href="http://localhost:4000/tours-with-lagos-nomad/" rel="alternate" type="text/html" title="Tours With A Lagos Nomad" /><published>2018-04-01T00:00:00+01:00</published><updated>2018-04-01T00:00:00+01:00</updated><id>http://localhost:4000/tours-with-lagos-nomad</id><content type="html" xml:base="http://localhost:4000/tours-with-lagos-nomad/">&lt;p&gt;&lt;img src=&quot;../assets/images/tours/image3.jpg&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-08T16:31:01+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Wole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Yoruba-Names</title><link href="http://localhost:4000/yoruba-names-javascript/" rel="alternate" type="text/html" title="Yoruba-Names" /><published>2018-04-01T16:30:00+01:00</published><updated>2018-04-01T16:30:00+01:00</updated><id>http://localhost:4000/yoruba-names-javascript</id><content type="html" xml:base="http://localhost:4000/yoruba-names-javascript/">&lt;p&gt;&lt;img src=&quot;../assets/images/projects/ynjs.png&quot; alt=&quot;Screenshot&quot; /&gt;
+Yoruba-Names is an opensource micro javascript library . And before you ask: It’s GNU 3.0 licensed!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;easy-to-setup&quot;&gt;Easy to setup&lt;/h1&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;npm install &lt;span class=&quot;nt&quot;&gt;--save&lt;/span&gt; yoruba-names&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h1 id=&quot;easy-to-use&quot;&gt;Easy to use&lt;/h1&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;yorubaNames&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'yoruba-names'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Get a random Yoruba name&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;yorubaNames&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Get a random number of Yoruba names&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;yorubaNames&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Get a random Yoruba fullname&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;yorubaNames&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;yorubaNames&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h1 id=&quot;wow-even-in-our-browsers&quot;&gt;Wow even in our browsers&lt;/h1&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://unpkg.com/yoruba-names@2.2.0/dist/index.umd.min.js&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/javascript&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;onclick=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;document.write(yorubaNames.random())&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Get a random name&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;onclick=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;document.write(yorubaNames.random(4))&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Get a random number of names&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;contribute&quot;&gt;Contribute&lt;/h1&gt;
+
+&lt;p&gt;Found a bug? Have a good idea for improving Yoruba-Names? Head over to &lt;a href=&quot;https://github.com/mczlatan/yoruba-names&quot;&gt;the github page&lt;/a&gt; and create a new ticket or fork. 
+You can also directly add issues and feature requests to the issue tracker.
+If you just want to chat with me, my twitter is &lt;a href=&quot;/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="project" /><category term="javascript" /><category term="yoruba-names" /><category term="git" /><category term="github" /><category term="nodejs" /><category term="mocha" /><category term="travis-ci" /><category term="webpack" /><category term="es6" /><category term="npm" /><summary type="html">Yoruba-Names is an opensource micro javascript library . And before you ask: It’s GNU 3.0 licensed!</summary></entry><entry><title type="html">Tours With A Lagos Nomad</title><link href="http://localhost:4000/tours-with-lagos-nomad/" rel="alternate" type="text/html" title="Tours With A Lagos Nomad" /><published>2018-04-01T00:00:00+01:00</published><updated>2018-04-01T00:00:00+01:00</updated><id>http://localhost:4000/tours-with-lagos-nomad</id><content type="html" xml:base="http://localhost:4000/tours-with-lagos-nomad/">&lt;p&gt;&lt;img src=&quot;../assets/images/tours/image3.jpg&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you’ve been having boring weekends and holidays, say no more !!!, I’ll be organizing local tours within Lagos and beyond.&lt;/p&gt;
 
@@ -682,88 +725,4 @@ How i achieved it:&lt;/p&gt;
 &lt;p&gt;Want to contribute? Great!
 Fork the projects, send in a pull request.&lt;/p&gt;
 
-&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="slack" /><category term="slackbot" /><category term="microsoft" /><category term="bots" /><category term="robots" /><category term="tay" /><category term="github" /><category term="stackify" /><category term="gitify" /><category term="python" /><category term="pip" /><category term="heroku" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-08.jpg" /></entry><entry><title type="html">Out of Boredom series</title><link href="http://localhost:4000/out-of-boredom-series/" rel="alternate" type="text/html" title="Out of Boredom series" /><published>2017-08-03T00:00:00+01:00</published><updated>2017-08-03T00:00:00+01:00</updated><id>http://localhost:4000/out-of-boredom-series</id><content type="html" xml:base="http://localhost:4000/out-of-boredom-series/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-10.jpg&quot; alt=&quot;Out of Boredom series&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Unboring Boredom Fact&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I did a quick five minute search on google looking for 
-intersting boredom facts.  Guess what? I got bored doing that.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Please don't get bored reading this post.&lt;/p&gt;
-
-&lt;p&gt;
-    I got bored at work today. I had stuff to do but my mortal self didnt want to cooperate. I tried so many activities trying to clear my head. I took a walk, ate, tried to watch a movie, listend to music, etc.  None worked so i gave up. I guess i was bored (of work?)
-&lt;/p&gt;
-
-&lt;p&gt;
-    While scribling and scrambling around, I stumbled on &lt;a href=&quot;https://github.com/akinjide/aboki&quot;&gt;a Github project&lt;/a&gt; 
-    by &lt;a href=&quot;https://github.com/akinjide&quot;&gt;Akinjide Bankole&lt;/a&gt;. The project allows us to view black market currency rate instantly in your terminal! (Nigeria Only) and it worked by scraping data from &lt;a href=&quot;https://www.abokifx.com&quot;&gt;AbokiFX&lt;/a&gt;.
-    Try it out by in your terminal:
-&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo pip install aboki
-
-$ aboki --help
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;okay-so-how-does-this-relate-to-boredom&quot;&gt;Okay so how does this relate to boredom?&lt;/h3&gt;
-&lt;p&gt;
-    Long story short out of boredom, I built a minified API around it and built a mobile app that allows you to see
-    the current exchange rate in US Dollars, Great Britain Pounds and Euros.
-&lt;/p&gt;
-
-&lt;h3 id=&quot;stack-for-the-api&quot;&gt;STACK for the API&lt;/h3&gt;
-&lt;p&gt;
-    &lt;li&gt;Python&lt;/li&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Flask&lt;/li&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Flask-Restful&lt;/li&gt;
-                    &lt;li&gt;Flask-CORS&lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;li&gt;Tornado&lt;/li&gt;
-            &lt;li&gt;Aboki&lt;/li&gt;
-        &lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&quot;stack-for-the-mobile-app&quot;&gt;STACK for the Mobile App&lt;/h3&gt;
-&lt;p&gt;
-    &lt;li&gt;Ionic 1.x&lt;/li&gt;
-    &lt;ul&gt;
-            &lt;li&gt;Cordova&lt;/li&gt;
-            &lt;li&gt;AngularJS&lt;/li&gt;
-            &lt;li&gt;NodeJS&lt;/li&gt;
-        &lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&quot;ok-cool-stuff-but-youve-still-not-said-your-plan-to-conquer-boredom&quot;&gt;Ok cool stuff, but you’ve still not said your plan to conquer boredom&lt;/h3&gt;
-&lt;p&gt;
-    Personally I'll be building small time apps and blogging about them in the &quot;Out of boredom series&quot; when i'm bored so i can 
-    &lt;ul&gt;
-        &lt;li&gt;&quot;Unbore myself&quot;&lt;/li&gt;
-        &lt;li&gt;Still make the best out of lost time&lt;/li&gt;
-        &lt;li&gt;Learn new things&lt;/li&gt;
-        &lt;li&gt;Remain creative&lt;/li&gt;
-        &lt;li&gt;etc, etc, etc.&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&quot;wheres-the-api-at&quot;&gt;Where’s the API at?&lt;/h3&gt;
-&lt;p&gt;
-    Hosted on a personal server, but check out
-    &lt;li&gt;
-        &lt;a href=&quot;https://github.com/mczlatan/nairaTo-API&quot;&gt;My Github&lt;/a&gt;.
-    &lt;/li&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&quot;wheres-the-mobile-app-at&quot;&gt;Where’s the Mobile App at?&lt;/h3&gt;
-&lt;p&gt;
-    Get it on
-    &lt;li&gt;
-         &lt;a href=&quot;https://drive.google.com/open?id=0B0bPh_TFeiUZbFZjdndHcFJBRlE&quot;&gt;My Google Drive&lt;/a&gt;.
-    &lt;/li&gt;
-    &lt;li&gt;
-        &lt;a href=&quot;https://github.com/mczlatan/nairaTo&quot;&gt;My Github&lt;/a&gt;.
-    &lt;/li&gt;
-    
-&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="bored" /><category term="flask" /><category term="ionic" /><category term="API" /><category term="github" /><category term="aboki" /><category term="naira" /><category term="python" /><category term="javascript" /><category term="angular" /><category term="cordova" /><category term="hybrid" /><category term="MEAN" /><category term="nodejs" /><category term="mobile" /><category term="app" /><category term="android" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry></feed>
+&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="slack" /><category term="slackbot" /><category term="microsoft" /><category term="bots" /><category term="robots" /><category term="tay" /><category term="github" /><category term="stackify" /><category term="gitify" /><category term="python" /><category term="pip" /><category term="heroku" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-08.jpg" /></entry></feed>
