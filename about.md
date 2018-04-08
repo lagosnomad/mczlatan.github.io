@@ -47,6 +47,7 @@ I currently work at Cool FM Nigeria as a Mobile Developer. I've previously had g
 	- Dart
 	- HTML & CSS
 	- PHP (rusty)
+	- Any other language required to get the job done
 - Frameworks:
 	- React-Native
 	- Ionic
@@ -56,6 +57,7 @@ I currently work at Cool FM Nigeria as a Mobile Developer. I've previously had g
 	- Jekyll
 	- Django
 	- NodeJS
+	- Any other framework required to get the job done
 - Libraries:
 	- Jinja 2/Nunjucks
 	- Handlebars
