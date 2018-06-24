@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-08T18:42:36+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Wole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Yoruba-Names</title><link href="http://localhost:4000/yoruba-names-javascript/" rel="alternate" type="text/html" title="Yoruba-Names" /><published>2018-04-01T16:30:00+01:00</published><updated>2018-04-01T16:30:00+01:00</updated><id>http://localhost:4000/yoruba-names-javascript</id><content type="html" xml:base="http://localhost:4000/yoruba-names-javascript/">&lt;p&gt;&lt;img src=&quot;../assets/images/projects/ynjs.png&quot; alt=&quot;Screenshot&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-24T05:48:04+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Wole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">TWLN: Cafe Néo Review</title><link href="http://localhost:4000/twlm-cafe-neo-review/" rel="alternate" type="text/html" title="TWLN: Cafe Néo Review" /><published>2018-06-15T00:00:00+01:00</published><updated>2018-06-15T00:00:00+01:00</updated><id>http://localhost:4000/twlm-cafe-neo-review</id><content type="html" xml:base="http://localhost:4000/twlm-cafe-neo-review/">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ogcyQiP.jpg?1&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cafe Neo boasts to be the biggest and Nigeria’s fastest fastest-growing coffee chain with about ten outlets in Lagos alone.
+&lt;strong&gt;Neo&lt;/strong&gt;, means “&lt;em&gt;gift&lt;/em&gt;” in Tswana and this encapsulates their view of coffee as a resource that should be shared and cherished. Cafe Neo fine coffee is grown in Africa.&lt;/p&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;
+            In a state today where many of our best minds face fundamental roadblocks that inhibit their progress (lack of power, internet, etc.), Cafe Neo also offers has a co-working space in their stores. 
+        &lt;/p&gt;
+        &lt;p&gt;
+            Working from the co-work space gives you access to power, condusive working environment, more focus as there's less distractions and even treat yoyrself to some cups of coffee.
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://i.imgur.com/i9QZ9ex.mp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Boomerang by Lagos Nomad&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;my-experience&quot;&gt;My Experience&lt;/h1&gt;
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;
+            I was on my way back from Surulere to work when the rain caught me on the road, luckily enough for me it didn't beat me too much. I decided to stop by the the Cafe Neo store at Sanusi Fafunwa, Victoria Island. It was quite empty because i was expecting Lagosians to be there buying coffee for the weather. 
+        &lt;/p&gt;
+        &lt;p&gt;
+            I particularly liked the Large chalkboard menu behind the counter. It showed all that was on the menu and the price. From hot drinks like Cappuccino, Caramel Macchiato, Espresso, Americano, Cafe Latte, Cafe Mocha, etc, to cold drinks like Bubble Tea, Caramel Frappucino, Iced Cafe Mocha. The pastries also caught my eyes, especially the Carrot Cake and Croissant.
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/nu0jprw.jpg?1&quot; alt=&quot;Image 1&quot; /&gt;&lt;br /&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/exp8WYK.jpg?1&quot; alt=&quot;Image 2&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Images by Lagos Nomad&lt;/figcaption&gt;
+    &lt;/div&gt;
+    &lt;p&gt;
+        It was a good first time visit to Cafe Neo and it was a good one. My Coffee was perfect, My Carrot Cake was yummy, the co-working space was comfortable and i would definitely go back there to work for maybe a whole day for more experience.    
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;extra-info&quot;&gt;Extra Info&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I put together &lt;a href=&quot;https://goo.gl/maps/ocQrUDm2ULM2&quot;&gt;a list of Cafe Neo stores&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cafe Neo Outlets are usually opened 7am - 8pm on weekedays, opens 10am to 6pm on Saturdays and are closed on Sundays&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&quot;http://www.mycafeneo.com/&quot;&gt;http://www.mycafeneo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a href=&quot;https://www.instagram.com/mycafeneo/&quot;&gt;@mycafeneo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Call:&lt;/strong&gt; 09085094726&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;gallery&quot;&gt;Gallery&lt;/h1&gt;
+
+&lt;p&gt;For more images, you can  &lt;a href=&quot;https://www.instagram.com/alagosnomad/&quot;&gt;check out my Cafe Neo Highlight on Instgram&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/UVcb5pi.jpg?1&quot; alt=&quot;Image 3&quot; /&gt;&lt;br /&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/VnFd6Zm.jpg?1&quot; alt=&quot;Image 4&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/4zrdTrZ.jpg?1&quot; alt=&quot;Image 5&quot; /&gt;&lt;br /&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/kDhGBZM.jpg?1&quot; alt=&quot;Image 5&quot; /&gt;
+    &lt;/div&gt;
+    &lt;figcaption class=&quot;caption&quot;&gt;Images by Lagos Nomad&lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;stay-up-to-date-with-info-via&quot;&gt;Stay up to date with info via&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chat.whatsapp.com/1cm2nkIkhA4KxVCBmbcydK&quot;&gt;WhatsApp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/alagosnomad&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/alagosnomad&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>lagosnomad</name></author><category term="tours" /><category term="lagos" /><category term="nomad" /><category term="nigeria" /><category term="tour" /><category term="travel" /><category term="review" /><category term="explore" /><category term="fun" /><category term="coffee" /><category term="cafe" /><category term="neo" /><category term="victoria" /><category term="island" /><category term="programmer" /><category term="caffiene" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.pexels.com/photos/867470/pexels-photo-867470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" /></entry><entry><title type="html">Reverse Engineering Hybrid Mobile Apps - For Fun and Profit (Part 1)</title><link href="http://localhost:4000/reverse-engineering-hybrid/" rel="alternate" type="text/html" title="Reverse Engineering Hybrid Mobile Apps - For Fun and Profit (Part 1)" /><published>2018-04-19T00:00:00+01:00</published><updated>2018-04-19T00:00:00+01:00</updated><id>http://localhost:4000/reverse-engineering-hybrid</id><content type="html" xml:base="http://localhost:4000/reverse-engineering-hybrid/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-17.jpeg&quot; alt=&quot;Reverse Engineering Hybrid Apps&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Whenever you plan to develop a mobile app, there are usually two approaches to choose from:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The native way&lt;/li&gt;
+  &lt;li&gt;The hybrid way
+Each approach has its own pros and cons depending on the features of what you’re building, your budget, 
+project timeline, user experience, present and future maintenance, and the skills and number of your developers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hybrid-mobile-apps&quot;&gt;Hybrid Mobile Apps&lt;/h2&gt;
+&lt;p&gt;A high level description of an hybrid mobile is a webview running inside a native container. Your application code is bundled into a webview and rendered in a native container on a mobile phone.&lt;/p&gt;
+
+&lt;p&gt;Simply explaining, Hybrid applications allow you to write your application code in your already familiar web languages - HTML, CSS, Javascript and compile them together to give you a mobile app that will run on any mobile platform - iOS, Android, Blackberry, Windows, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.upwork.com&quot;&gt;Upwork&lt;/a&gt;, a freelancer website has a very good explanation on what hybrid mobile app are and how they work.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-pros-of-hybrid-mobile-apps&quot;&gt;Some Pros of Hybrid Mobile Apps&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;It’s cross-platfrom:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;You only one codebase for all platforms - iOS, Android, Blackberry, Windows, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Learning curve is easy:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Since you can leverage on exixting web technology skills.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You save time and money:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;You don’t have to pay developers to build for different platforms and therefore directly reduce the time spent developing the app.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Scaling is easy:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Once you build for a platform, you basically just have to compile again for another platform and that’s it.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Native Features:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;You still have access to the underlying features of the mobile device like camera, touchid, vibration, etc. There are plugins/library that enable this.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;some-cons-of-hybrid-mobile-apps&quot;&gt;Some Cons of Hybrid Mobile Apps&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This is the biggest drawback of hybrid apps. They can be slow and irresponsive. Since they run in a webview they are only as good as the webview they run in.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;User Exxperience&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Hybrid applications look and feel different from native apps. Yes, because they run in a webview.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Hybrid applications are not secure. They can easily be re-engineered and most developers don’t go the extra mile to secure the application.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;We now have a basic understanding of what Hybrid appications are and how they work and can proceed to reverse engineering them in the part 2.&lt;/p&gt;
+
+&lt;p&gt;I’ll be using a demo application i built in my &lt;a href=&quot;/out-of-boredom-series/&quot;&gt;previous blog post here&lt;/a&gt;, you can download the application &lt;a href=&quot;https://drive.google.com/file/d/0B0bPh_TFeiUZbFZjdndHcFJBRlE/view&quot;&gt;.apk file here.&lt;/a&gt; and we can dive into action in the part 2.&lt;/p&gt;
+
+&lt;p&gt;Also feel free to &lt;a href=&quot;/&quot;&gt;Tweet at me&lt;/a&gt;, It would be a priviledge to chat with you.&lt;/p&gt;
+
+&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="javascript" /><category term="ionic" /><category term="cordova" /><category term="hybrid" /><category term="android" /><category term="ios" /><category term="app" /><category term="mobile" /><category term="hacker" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Yoruba-Names</title><link href="http://localhost:4000/yoruba-names-javascript/" rel="alternate" type="text/html" title="Yoruba-Names" /><published>2018-04-01T16:30:00+01:00</published><updated>2018-04-01T16:30:00+01:00</updated><id>http://localhost:4000/yoruba-names-javascript</id><content type="html" xml:base="http://localhost:4000/yoruba-names-javascript/">&lt;p&gt;&lt;img src=&quot;../assets/images/projects/ynjs.png&quot; alt=&quot;Screenshot&quot; /&gt;
 Yoruba-Names is an opensource micro javascript library . And before you ask: It’s GNU 3.0 licensed!&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -41,16 +182,7 @@ Yoruba-Names is an opensource micro javascript library . And before you ask: It�
 
 &lt;p&gt;Found a bug? Have a good idea for improving Yoruba-Names? Head over to &lt;a href=&quot;https://github.com/mczlatan/yoruba-names&quot;&gt;the github page&lt;/a&gt; and create a new ticket or fork. 
 You can also directly add issues and feature requests to the issue tracker.
-If you just want to chat with me, my twitter is &lt;a href=&quot;/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="project" /><category term="javascript" /><category term="yoruba-names" /><category term="git" /><category term="github" /><category term="nodejs" /><category term="mocha" /><category term="travis-ci" /><category term="webpack" /><category term="es6" /><category term="npm" /><summary type="html">Yoruba-Names is an opensource micro javascript library . And before you ask: It’s GNU 3.0 licensed!</summary></entry><entry><title type="html">TWLN: Takwa Bay Review</title><link href="http://localhost:4000/twlm-takwa-bay-review/" rel="alternate" type="text/html" title="TWLN: Takwa Bay Review" /><published>2018-04-01T00:00:00+01:00</published><updated>2018-04-01T00:00:00+01:00</updated><id>http://localhost:4000/twlm-takwa-bay-review</id><content type="html" xml:base="http://localhost:4000/twlm-takwa-bay-review/">&lt;p&gt;&lt;img src=&quot;../assets/images/tours/image3.jpg&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Currently writing this blog post. Please check back soon or &lt;a href=&quot;/&quot;&gt;tweet at me&lt;/a&gt; if you want to be notified when i publish the post.&lt;/p&gt;
-
-&lt;h2 id=&quot;stay-up-to-date-with-info-via&quot;&gt;Stay up to date with info via&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chat.whatsapp.com/1cm2nkIkhA4KxVCBmbcydK&quot;&gt;WhatsApp&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/alagosnomad&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/alagosnomad&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>lagosnomad</name></author><category term="tours" /><category term="lagos" /><category term="nomad" /><category term="nigeria" /><category term="tour" /><category term="travel" /><category term="review" /><category term="explore" /><category term="fun" /><category term="beach" /><category term="takwa" /><category term="bay" /><category term="eko" /><category term="atlantic" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Tours With A Lagos Nomad</title><link href="http://localhost:4000/tours-with-lagos-nomad/" rel="alternate" type="text/html" title="Tours With A Lagos Nomad" /><published>2018-04-01T00:00:00+01:00</published><updated>2018-04-01T00:00:00+01:00</updated><id>http://localhost:4000/tours-with-lagos-nomad</id><content type="html" xml:base="http://localhost:4000/tours-with-lagos-nomad/">&lt;p&gt;&lt;img src=&quot;../assets/images/tours/image3.jpg&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
+If you just want to chat with me, my twitter is &lt;a href=&quot;/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="project" /><category term="javascript" /><category term="yoruba-names" /><category term="git" /><category term="github" /><category term="nodejs" /><category term="mocha" /><category term="travis-ci" /><category term="webpack" /><category term="es6" /><category term="npm" /><summary type="html">Yoruba-Names is an opensource micro javascript library . And before you ask: It’s GNU 3.0 licensed!</summary></entry><entry><title type="html">Tours With A Lagos Nomad</title><link href="http://localhost:4000/tours-with-lagos-nomad/" rel="alternate" type="text/html" title="Tours With A Lagos Nomad" /><published>2018-04-01T00:00:00+01:00</published><updated>2018-04-01T00:00:00+01:00</updated><id>http://localhost:4000/tours-with-lagos-nomad</id><content type="html" xml:base="http://localhost:4000/tours-with-lagos-nomad/">&lt;p&gt;&lt;img src=&quot;../assets/images/tours/image3.jpg&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you’ve been having boring weekends and holidays, say no more !!!, I’ll be organizing local tours within Lagos and beyond.&lt;/p&gt;
 
@@ -87,9 +219,7 @@ If you just want to chat with me, my twitter is &lt;a href=&quot;/&quot;&gt;here
   &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/alagosnomad&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>lagosnomad</name></author><category term="tours" /><category term="lagos" /><category term="nomad" /><category term="nigeria" /><category term="tour" /><category term="travel" /><category term="review" /><category term="explore" /><category term="fun" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Jekyll and Chill</title><link href="http://localhost:4000/jekyll-and-chill/" rel="alternate" type="text/html" title="Jekyll and Chill" /><published>2018-03-14T00:00:00+01:00</published><updated>2018-03-14T00:00:00+01:00</updated><id>http://localhost:4000/jekyll-and-chill</id><content type="html" xml:base="http://localhost:4000/jekyll-and-chill/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-10.jpg&quot; alt=&quot;Jekyll and Chill&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Currently writing this blog post. Please check back soon or &lt;a href=&quot;/&quot;&gt;tweet at me&lt;/a&gt; if you want to be notified when i publish the post.&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="jekyll" /><category term="whogohost" /><category term="github" /><category term="DNS" /><category term="zoho" /><category term="google" /><category term="adsense" /><category term="analytics" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Reverse Engineering Hybrid Mobile Apps</title><link href="http://localhost:4000/reverse-engineering-hybrid/" rel="alternate" type="text/html" title="Reverse Engineering Hybrid Mobile Apps" /><published>2018-03-13T00:00:00+01:00</published><updated>2018-03-13T00:00:00+01:00</updated><id>http://localhost:4000/reverse-engineering-hybrid</id><content type="html" xml:base="http://localhost:4000/reverse-engineering-hybrid/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-10.jpg&quot; alt=&quot;Reverse Engineering Hybrid Apps&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Currently writing this blog post. Please check back soon or &lt;a href=&quot;/&quot;&gt;tweet at me&lt;/a&gt; if you want to be notified when i publish the post.&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="javascript" /><category term="ionic" /><category term="cordova" /><category term="hybrid" /><category term="android" /><category term="ios" /><category term="app" /><category term="mobile" /><category term="hacker" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Something Light</title><link href="http://localhost:4000/something-light/" rel="alternate" type="text/html" title="Something Light" /><published>2017-10-27T00:00:00+01:00</published><updated>2017-10-27T00:00:00+01:00</updated><id>http://localhost:4000/something-light</id><content type="html" xml:base="http://localhost:4000/something-light/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-13.jpg&quot; alt=&quot;Something Light&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Currently writing this blog post. Please check back soon or &lt;a href=&quot;/&quot;&gt;tweet at me&lt;/a&gt; if you want to be notified when i publish the post.&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="jekyll" /><category term="whogohost" /><category term="github" /><category term="DNS" /><category term="zoho" /><category term="google" /><category term="adsense" /><category term="analytics" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Something Light</title><link href="http://localhost:4000/something-light/" rel="alternate" type="text/html" title="Something Light" /><published>2017-10-27T00:00:00+01:00</published><updated>2017-10-27T00:00:00+01:00</updated><id>http://localhost:4000/something-light</id><content type="html" xml:base="http://localhost:4000/something-light/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-13.jpg&quot; alt=&quot;Something Light&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I mean, 2017 has been a great year for me so far.&lt;/p&gt;
 

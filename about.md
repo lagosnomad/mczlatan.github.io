@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+skip_index: true
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
@@ -51,6 +52,7 @@ I currently work at Cool FM Nigeria as a Mobile Developer. I've previously had g
 - Frameworks:
 	- React-Native
 	- Ionic
+	- Cordova
 	- Wordpress
 	- Angular
 	- Flask
