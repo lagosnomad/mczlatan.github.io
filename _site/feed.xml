@@ -1,39 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-24T05:54:35+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Wole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Tours With A Lagos Nomad</title><link href="http://localhost:4000/tours-with-lagos-nomad/" rel="alternate" type="text/html" title="Tours With A Lagos Nomad" /><published>2018-06-24T00:00:00+01:00</published><updated>2018-06-24T00:00:00+01:00</updated><id>http://localhost:4000/tours-with-lagos-nomad</id><content type="html" xml:base="http://localhost:4000/tours-with-lagos-nomad/">&lt;p&gt;&lt;img src=&quot;../assets/images/tours/image3.jpg&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-24T06:00:29+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Wole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">TWLN: Cafe Néo Review</title><link href="http://localhost:4000/twlm-cafe-neo-review/" rel="alternate" type="text/html" title="TWLN: Cafe Néo Review" /><published>2018-06-24T00:00:00+01:00</published><updated>2018-06-24T00:00:00+01:00</updated><id>http://localhost:4000/twlm-cafe-neo-review</id><content type="html" xml:base="http://localhost:4000/twlm-cafe-neo-review/">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ogcyQiP.jpg?1&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;If you’ve been having boring weekends and holidays, say no more !!!, I’ll be organizing local tours within Lagos and beyond.&lt;/p&gt;
+&lt;p&gt;Cafe Neo boasts to be the biggest and Nigeria’s fastest fastest-growing coffee chain with about ten outlets in Lagos alone.
+&lt;strong&gt;Neo&lt;/strong&gt;, means “&lt;em&gt;gift&lt;/em&gt;” in Tswana and this encapsulates their view of coffee as a resource that should be shared and cherished. Cafe Neo fine coffee is grown in Africa.&lt;/p&gt;
 
-&lt;h2 id=&quot;well-be-&quot;&gt;We’ll be …&lt;/h2&gt;
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;
+            In a state today where many of our best minds face fundamental roadblocks that inhibit their progress (lack of power, internet, etc.), Cafe Neo also offers has a co-working space in their stores. 
+        &lt;/p&gt;
+        &lt;p&gt;
+            Working from the co-work space gives you access to power, condusive working environment, more focus as there's less distractions and even treat yoyrself to some cups of coffee.
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://i.imgur.com/i9QZ9ex.mp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Boomerang by Lagos Nomad&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;my-experience&quot;&gt;My Experience&lt;/h1&gt;
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;
+            I was on my way back from Surulere to work when the rain caught me on the road, luckily enough for me it didn't beat me too much. I decided to stop by the the Cafe Neo store at Sanusi Fafunwa, Victoria Island. It was quite empty because i was expecting Lagosians to be there buying coffee for the weather. 
+        &lt;/p&gt;
+        &lt;p&gt;
+            I particularly liked the Large chalkboard menu behind the counter. It showed all that was on the menu and the price. From hot drinks like Cappuccino, Caramel Macchiato, Espresso, Americano, Cafe Latte, Cafe Mocha, etc, to cold drinks like Bubble Tea, Caramel Frappucino, Iced Cafe Mocha. The pastries also caught my eyes, especially the Carrot Cake and Croissant.
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/nu0jprw.jpg?1&quot; alt=&quot;Image 1&quot; /&gt;&lt;br /&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/exp8WYK.jpg?1&quot; alt=&quot;Image 2&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Images by Lagos Nomad&lt;/figcaption&gt;
+    &lt;/div&gt;
+    &lt;p&gt;
+        It was a good first time visit to Cafe Neo and it was a good one. My Coffee was perfect, My Carrot Cake was yummy, the co-working space was comfortable and i would definitely go back there to work for maybe a whole day for more experience.    
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;extra-info&quot;&gt;Extra Info&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;Visiting Historic places, chill out spots, resorts, ranches, the beaches, art galleries, clubs, local resturants.&lt;/li&gt;
-  &lt;li&gt;Having fun while rendering certain community services.&lt;/li&gt;
-  &lt;li&gt;Doing it for the gram.&lt;/li&gt;
-  &lt;li&gt;Exploring and experiencing parts of our cities we never could imagine.&lt;/li&gt;
-  &lt;li&gt;Most importantly, learning and living life.&lt;/li&gt;
+  &lt;li&gt;I put together &lt;a href=&quot;https://goo.gl/maps/ocQrUDm2ULM2&quot;&gt;a list of Cafe Neo stores&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cafe Neo Outlets are usually opened 7am - 8pm on weekedays, opens 10am to 6pm on Saturdays and are closed on Sundays&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&quot;http://www.mycafeneo.com/&quot;&gt;http://www.mycafeneo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a href=&quot;https://www.instagram.com/mycafeneo/&quot;&gt;@mycafeneo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Call:&lt;/strong&gt; 09085094726&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;why-you-should-be-part-of-the-tours&quot;&gt;Why you should be part of the tours&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;It’s going to be a lot fun.&lt;/li&gt;
-  &lt;li&gt;You’ll learn a lot.&lt;/li&gt;
-  &lt;li&gt;You get to know your city, see it and experience it in a different way every time.&lt;/li&gt;
-  &lt;li&gt;Expand your network of friends and professionals.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h1 id=&quot;gallery&quot;&gt;Gallery&lt;/h1&gt;
 
-&lt;h2 id=&quot;for-the-culture-you-should-always&quot;&gt;For the culture, you should always…&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Bring extra cash aside the tour fee.&lt;/li&gt;
-  &lt;li&gt;Bring edibles for yourself and the gang.&lt;/li&gt;
-  &lt;li&gt;Bring drinks for yourself and the gang.&lt;/li&gt;
-  &lt;li&gt;A couple of conviniencies. &lt;a href=&quot;http://www.eaglecreek.com/blog/what-pack-ultimate-travel-packing-checklist&quot;&gt;Pick from this list.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Be security concious and remain safe while learning and having fun.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;For more images, you can  &lt;a href=&quot;https://www.instagram.com/alagosnomad/&quot;&gt;check out my Cafe Neo Highlight on Instgram&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/UVcb5pi.jpg?1&quot; alt=&quot;Image 3&quot; /&gt;&lt;br /&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/VnFd6Zm.jpg?1&quot; alt=&quot;Image 4&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/4zrdTrZ.jpg?1&quot; alt=&quot;Image 5&quot; /&gt;&lt;br /&gt;
+        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/kDhGBZM.jpg?1&quot; alt=&quot;Image 5&quot; /&gt;
+    &lt;/div&gt;
+    &lt;figcaption class=&quot;caption&quot;&gt;Images by Lagos Nomad&lt;/figcaption&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;stay-up-to-date-with-info-via&quot;&gt;Stay up to date with info via&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://chat.whatsapp.com/1cm2nkIkhA4KxVCBmbcydK&quot;&gt;WhatsApp&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/alagosnomad&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/alagosnomad&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>lagosnomad</name></author><category term="tours" /><category term="lagos" /><category term="nomad" /><category term="nigeria" /><category term="tour" /><category term="travel" /><category term="review" /><category term="explore" /><category term="fun" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Reverse Engineering Hybrid Mobile Apps - For Fun and Profit (Part 1)</title><link href="http://localhost:4000/reverse-engineering-hybrid/" rel="alternate" type="text/html" title="Reverse Engineering Hybrid Mobile Apps - For Fun and Profit (Part 1)" /><published>2018-06-24T00:00:00+01:00</published><updated>2018-06-24T00:00:00+01:00</updated><id>http://localhost:4000/reverse-engineering-hybrid</id><content type="html" xml:base="http://localhost:4000/reverse-engineering-hybrid/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-17.jpeg&quot; alt=&quot;Reverse Engineering Hybrid Apps&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>lagosnomad</name></author><category term="tours" /><category term="lagos" /><category term="nomad" /><category term="nigeria" /><category term="tour" /><category term="travel" /><category term="review" /><category term="explore" /><category term="fun" /><category term="coffee" /><category term="cafe" /><category term="neo" /><category term="victoria" /><category term="island" /><category term="programmer" /><category term="caffiene" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.pexels.com/photos/867470/pexels-photo-867470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" /></entry><entry><title type="html">Reverse Engineering Hybrid Mobile Apps - For Fun and Profit (Part 1)</title><link href="http://localhost:4000/reverse-engineering-hybrid/" rel="alternate" type="text/html" title="Reverse Engineering Hybrid Mobile Apps - For Fun and Profit (Part 1)" /><published>2018-06-24T00:00:00+01:00</published><updated>2018-06-24T00:00:00+01:00</updated><id>http://localhost:4000/reverse-engineering-hybrid</id><content type="html" xml:base="http://localhost:4000/reverse-engineering-hybrid/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-17.jpeg&quot; alt=&quot;Reverse Engineering Hybrid Apps&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Whenever you plan to develop a mobile app, there are usually two approaches to choose from:&lt;/p&gt;
 &lt;ul&gt;
@@ -105,76 +139,42 @@ project timeline, user experience, present and future maintenance, and the skill
 
 &lt;p&gt;Also feel free to &lt;a href=&quot;/&quot;&gt;Tweet at me&lt;/a&gt;, It would be a priviledge to chat with you.&lt;/p&gt;
 
-&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="javascript" /><category term="ionic" /><category term="cordova" /><category term="hybrid" /><category term="android" /><category term="ios" /><category term="app" /><category term="mobile" /><category term="hacker" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">TWLN: Cafe Néo Review</title><link href="http://localhost:4000/twlm-cafe-neo-review/" rel="alternate" type="text/html" title="TWLN: Cafe Néo Review" /><published>2018-06-15T00:00:00+01:00</published><updated>2018-06-15T00:00:00+01:00</updated><id>http://localhost:4000/twlm-cafe-neo-review</id><content type="html" xml:base="http://localhost:4000/twlm-cafe-neo-review/">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ogcyQiP.jpg?1&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="javascript" /><category term="ionic" /><category term="cordova" /><category term="hybrid" /><category term="android" /><category term="ios" /><category term="app" /><category term="mobile" /><category term="hacker" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Tours With A Lagos Nomad</title><link href="http://localhost:4000/tours-with-lagos-nomad/" rel="alternate" type="text/html" title="Tours With A Lagos Nomad" /><published>2018-04-19T00:00:00+01:00</published><updated>2018-04-19T00:00:00+01:00</updated><id>http://localhost:4000/tours-with-lagos-nomad</id><content type="html" xml:base="http://localhost:4000/tours-with-lagos-nomad/">&lt;p&gt;&lt;img src=&quot;../assets/images/tours/image3.jpg&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Cafe Neo boasts to be the biggest and Nigeria’s fastest fastest-growing coffee chain with about ten outlets in Lagos alone.
-&lt;strong&gt;Neo&lt;/strong&gt;, means “&lt;em&gt;gift&lt;/em&gt;” in Tswana and this encapsulates their view of coffee as a resource that should be shared and cherished. Cafe Neo fine coffee is grown in Africa.&lt;/p&gt;
+&lt;p&gt;If you’ve been having boring weekends and holidays, say no more !!!, I’ll be organizing local tours within Lagos and beyond.&lt;/p&gt;
 
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;
-            In a state today where many of our best minds face fundamental roadblocks that inhibit their progress (lack of power, internet, etc.), Cafe Neo also offers has a co-working space in their stores. 
-        &lt;/p&gt;
-        &lt;p&gt;
-            Working from the co-work space gives you access to power, condusive working environment, more focus as there's less distractions and even treat yoyrself to some cups of coffee.
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://i.imgur.com/i9QZ9ex.mp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Boomerang by Lagos Nomad&lt;/figcaption&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h1 id=&quot;my-experience&quot;&gt;My Experience&lt;/h1&gt;
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;
-            I was on my way back from Surulere to work when the rain caught me on the road, luckily enough for me it didn't beat me too much. I decided to stop by the the Cafe Neo store at Sanusi Fafunwa, Victoria Island. It was quite empty because i was expecting Lagosians to be there buying coffee for the weather. 
-        &lt;/p&gt;
-        &lt;p&gt;
-            I particularly liked the Large chalkboard menu behind the counter. It showed all that was on the menu and the price. From hot drinks like Cappuccino, Caramel Macchiato, Espresso, Americano, Cafe Latte, Cafe Mocha, etc, to cold drinks like Bubble Tea, Caramel Frappucino, Iced Cafe Mocha. The pastries also caught my eyes, especially the Carrot Cake and Croissant.
-        &lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/nu0jprw.jpg?1&quot; alt=&quot;Image 1&quot; /&gt;&lt;br /&gt;
-        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/exp8WYK.jpg?1&quot; alt=&quot;Image 2&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Images by Lagos Nomad&lt;/figcaption&gt;
-    &lt;/div&gt;
-    &lt;p&gt;
-        It was a good first time visit to Cafe Neo and it was a good one. My Coffee was perfect, My Carrot Cake was yummy, the co-working space was comfortable and i would definitely go back there to work for maybe a whole day for more experience.    
-    &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h1 id=&quot;extra-info&quot;&gt;Extra Info&lt;/h1&gt;
+&lt;h2 id=&quot;well-be-&quot;&gt;We’ll be …&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;I put together &lt;a href=&quot;https://goo.gl/maps/ocQrUDm2ULM2&quot;&gt;a list of Cafe Neo stores&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Cafe Neo Outlets are usually opened 7am - 8pm on weekedays, opens 10am to 6pm on Saturdays and are closed on Sundays&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&quot;http://www.mycafeneo.com/&quot;&gt;http://www.mycafeneo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a href=&quot;https://www.instagram.com/mycafeneo/&quot;&gt;@mycafeneo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Call:&lt;/strong&gt; 09085094726&lt;/li&gt;
+  &lt;li&gt;Visiting Historic places, chill out spots, resorts, ranches, the beaches, art galleries, clubs, local resturants.&lt;/li&gt;
+  &lt;li&gt;Having fun while rendering certain community services.&lt;/li&gt;
+  &lt;li&gt;Doing it for the gram.&lt;/li&gt;
+  &lt;li&gt;Exploring and experiencing parts of our cities we never could imagine.&lt;/li&gt;
+  &lt;li&gt;Most importantly, learning and living life.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;gallery&quot;&gt;Gallery&lt;/h1&gt;
+&lt;h2 id=&quot;why-you-should-be-part-of-the-tours&quot;&gt;Why you should be part of the tours&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;It’s going to be a lot fun.&lt;/li&gt;
+  &lt;li&gt;You’ll learn a lot.&lt;/li&gt;
+  &lt;li&gt;You get to know your city, see it and experience it in a different way every time.&lt;/li&gt;
+  &lt;li&gt;Expand your network of friends and professionals.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;For more images, you can  &lt;a href=&quot;https://www.instagram.com/alagosnomad/&quot;&gt;check out my Cafe Neo Highlight on Instgram&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/UVcb5pi.jpg?1&quot; alt=&quot;Image 3&quot; /&gt;&lt;br /&gt;
-        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/VnFd6Zm.jpg?1&quot; alt=&quot;Image 4&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/4zrdTrZ.jpg?1&quot; alt=&quot;Image 5&quot; /&gt;&lt;br /&gt;
-        &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/kDhGBZM.jpg?1&quot; alt=&quot;Image 5&quot; /&gt;
-    &lt;/div&gt;
-    &lt;figcaption class=&quot;caption&quot;&gt;Images by Lagos Nomad&lt;/figcaption&gt;
-&lt;/div&gt;
+&lt;h2 id=&quot;for-the-culture-you-should-always&quot;&gt;For the culture, you should always…&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bring extra cash aside the tour fee.&lt;/li&gt;
+  &lt;li&gt;Bring edibles for yourself and the gang.&lt;/li&gt;
+  &lt;li&gt;Bring drinks for yourself and the gang.&lt;/li&gt;
+  &lt;li&gt;A couple of conviniencies. &lt;a href=&quot;http://www.eaglecreek.com/blog/what-pack-ultimate-travel-packing-checklist&quot;&gt;Pick from this list.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Be security concious and remain safe while learning and having fun.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;stay-up-to-date-with-info-via&quot;&gt;Stay up to date with info via&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://chat.whatsapp.com/1cm2nkIkhA4KxVCBmbcydK&quot;&gt;WhatsApp&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/alagosnomad&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/alagosnomad&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>lagosnomad</name></author><category term="tours" /><category term="lagos" /><category term="nomad" /><category term="nigeria" /><category term="tour" /><category term="travel" /><category term="review" /><category term="explore" /><category term="fun" /><category term="coffee" /><category term="cafe" /><category term="neo" /><category term="victoria" /><category term="island" /><category term="programmer" /><category term="caffiene" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.pexels.com/photos/867470/pexels-photo-867470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" /></entry><entry><title type="html">Yoruba-Names</title><link href="http://localhost:4000/yoruba-names-javascript/" rel="alternate" type="text/html" title="Yoruba-Names" /><published>2018-04-01T16:30:00+01:00</published><updated>2018-04-01T16:30:00+01:00</updated><id>http://localhost:4000/yoruba-names-javascript</id><content type="html" xml:base="http://localhost:4000/yoruba-names-javascript/">&lt;p&gt;&lt;img src=&quot;../assets/images/projects/ynjs.png&quot; alt=&quot;Screenshot&quot; /&gt;
+&lt;/ul&gt;</content><author><name>lagosnomad</name></author><category term="tours" /><category term="lagos" /><category term="nomad" /><category term="nigeria" /><category term="tour" /><category term="travel" /><category term="review" /><category term="explore" /><category term="fun" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">Yoruba-Names</title><link href="http://localhost:4000/yoruba-names-javascript/" rel="alternate" type="text/html" title="Yoruba-Names" /><published>2018-04-01T16:30:00+01:00</published><updated>2018-04-01T16:30:00+01:00</updated><id>http://localhost:4000/yoruba-names-javascript</id><content type="html" xml:base="http://localhost:4000/yoruba-names-javascript/">&lt;p&gt;&lt;img src=&quot;../assets/images/projects/ynjs.png&quot; alt=&quot;Screenshot&quot; /&gt;
 Yoruba-Names is an opensource micro javascript library . And before you ask: It’s GNU 3.0 licensed!&lt;/p&gt;
 
 &lt;hr /&gt;

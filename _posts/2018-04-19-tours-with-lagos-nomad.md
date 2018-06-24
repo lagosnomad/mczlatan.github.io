@@ -17,7 +17,7 @@ layout: post
 tours: true
 hidden: false
 externalLink: false
-date: 2018-06-24
+date: 2018-04-19
 ---
 
 ![Tours With A Lagos Nomad](../assets/images/tours/image3.jpg)
