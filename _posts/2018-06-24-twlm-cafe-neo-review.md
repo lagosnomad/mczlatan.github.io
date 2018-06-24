@@ -65,7 +65,7 @@ Cafe Neo boasts to be the biggest and Nigeria's fastest fastest-growing coffee c
         <figcaption class="caption">Images by Lagos Nomad</figcaption>
     </div>
     <p>
-        It was a good first time visit to Cafe Neo and it was a good one. My Coffee was perfect, My Carrot Cake was yummy, the co-working space was comfortable and i would definitely go back there to work for maybe a whole day for more experience.    
+        It was a good first time visit to Cafe Neo and it was a good one. My Coffee was perfect, my Carrot Cake was yummy, the co-working space was comfortable and i would definitely go back there to work for maybe a whole day for more experience.    
     </p>
 </div>
 
@@ -81,7 +81,7 @@ Cafe Neo boasts to be the biggest and Nigeria's fastest fastest-growing coffee c
 
 # Gallery
 
-For more images, you can  [check out my Cafe Neo Highlight on Instgram](https://www.instagram.com/alagosnomad/) 
+For more images, you can  [check out my Cafe Neo Highlight on Instagram](https://www.instagram.com/alagosnomad/) 
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://i.imgur.com/UVcb5pi.jpg?1" alt="Image 3"><br>
