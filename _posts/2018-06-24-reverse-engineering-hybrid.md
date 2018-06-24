@@ -19,7 +19,7 @@ headerImage: false
 projects: false
 hidden: false # don't count this post in blog pagination
 externalLink: false
-date: 2018-04-19
+date: 2018-06-24
 ---
 ![Reverse Engineering Hybrid Apps](../assets/images/post-bg-17.jpeg)
 
