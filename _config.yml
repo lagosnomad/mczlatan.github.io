@@ -1,6 +1,6 @@
 # main text of home
-name: Olakanmi Wole
-bio: Lagos Nomad that writes code for the web and mobile platforms.
+name: Olakanmi Oluwole
+bio: Cyber Security and Software Engineering
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,13 +8,13 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/laylay.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
 resume-external: false
-resume-url: https://google.com/?q=my+resume
+# resume-url: https://google.com/?q=my+resume
 
 #url: lagosnomad.com
 # your url: http://USERNAME.github.io
@@ -35,18 +35,18 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: alagosnomad
-google:  McZlatanBourne
-instagram: alagosnomad
-pinterest: lagosnomad
+twitter: woleoflagos
+# google:  McZlatanBourne
+instagram: woleoflagos
+# pinterest: lagosnomad
 linkedin: olakanmi-oluwole-96b129b7
-youtube: McZlatanBourne 
+youtube: channel/UCrutGwMzAC1FxApdMIwsvYg
 # spotify: myspotify
-github: mczlatan
+github: lagosnomad
 # lastfm: mylastfm
-stackoverflow: 3812348/mczlatan
-quora: Mczlatan-Bourne
-reddit: lagosnomad
+# stackoverflow: 3812348/mczlatan
+# quora: Mczlatan-Bourne
+# reddit: lagosnomad
 medium: McZlatan_Bourne
 # vimeo: myvimeo
 # lanyrd: mylanyrd
@@ -55,10 +55,10 @@ email: wole@lagosnomad.com
 authors:
     lagosnomad:
         name: Olakanmi Oluwole
-        bio: Lagos Nomad that writes code for the web and mobile platforms.
+        bio: Cyber Security and Software Engineering.
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: alagosnomad
+        picture: assets/images/laylay.jpg
+        twitter: woleoflagos
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

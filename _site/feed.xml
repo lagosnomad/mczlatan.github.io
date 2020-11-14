@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-24T06:00:29+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Wole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">TWLN: Cafe Néo Review</title><link href="http://localhost:4000/twlm-cafe-neo-review/" rel="alternate" type="text/html" title="TWLN: Cafe Néo Review" /><published>2018-06-24T00:00:00+01:00</published><updated>2018-06-24T00:00:00+01:00</updated><id>http://localhost:4000/twlm-cafe-neo-review</id><content type="html" xml:base="http://localhost:4000/twlm-cafe-neo-review/">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ogcyQiP.jpg?1&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-14T15:32:19+01:00</updated><id>http://localhost:4000/</id><title type="html">Olakanmi Oluwole</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Investigating Shortened URLs</title><link href="http://localhost:4000/investigating-shortened-urls/" rel="alternate" type="text/html" title="Investigating Shortened URLs" /><published>2020-11-14T00:00:00+01:00</published><updated>2020-11-14T00:00:00+01:00</updated><id>http://localhost:4000/investigating-shortened-urls</id><content type="html" xml:base="http://localhost:4000/investigating-shortened-urls/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-17.jpg&quot; alt=&quot;Investigating Shortened URLs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This blog post is currently in the drafts.&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="osint" /><category term="hacker" /><category term="web" /><category term="malware" /><category term="investigations" /><category term="security" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-10.jpg" /></entry><entry><title type="html">TWLN: Cafe Néo Review</title><link href="http://localhost:4000/twlm-cafe-neo-review/" rel="alternate" type="text/html" title="TWLN: Cafe Néo Review" /><published>2018-06-24T00:00:00+01:00</published><updated>2018-06-24T00:00:00+01:00</updated><id>http://localhost:4000/twlm-cafe-neo-review</id><content type="html" xml:base="http://localhost:4000/twlm-cafe-neo-review/">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ogcyQiP.jpg?1&quot; alt=&quot;Tours With A Lagos Nomad&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cafe Neo boasts to be the biggest and Nigeria’s fastest fastest-growing coffee chain with about ten outlets in Lagos alone.
 &lt;strong&gt;Neo&lt;/strong&gt;, means “&lt;em&gt;gift&lt;/em&gt;” in Tswana and this encapsulates their view of coffee as a resource that should be shared and cherished. Cafe Neo fine coffee is grown in Africa.&lt;/p&gt;
@@ -34,7 +36,7 @@
         &lt;figcaption class=&quot;caption&quot;&gt;Images by Lagos Nomad&lt;/figcaption&gt;
     &lt;/div&gt;
     &lt;p&gt;
-        It was a good first time visit to Cafe Neo and it was a good one. My Coffee was perfect, My Carrot Cake was yummy, the co-working space was comfortable and i would definitely go back there to work for maybe a whole day for more experience.    
+        It was a good first time visit to Cafe Neo and it was a good one. My Coffee was perfect, my Carrot Cake was yummy, the co-working space was comfortable and i would definitely go back there to work for maybe a whole day for more experience.    
     &lt;/p&gt;
 &lt;/div&gt;
 
@@ -49,7 +51,7 @@
 
 &lt;h1 id=&quot;gallery&quot;&gt;Gallery&lt;/h1&gt;
 
-&lt;p&gt;For more images, you can  &lt;a href=&quot;https://www.instagram.com/alagosnomad/&quot;&gt;check out my Cafe Neo Highlight on Instgram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more images, you can  &lt;a href=&quot;https://www.instagram.com/alagosnomad/&quot;&gt;check out my Cafe Neo Highlight on Instagram&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;side-by-side&quot;&gt;
     &lt;div class=&quot;toleft&quot;&gt;
         &lt;img class=&quot;image&quot; src=&quot;https://i.imgur.com/UVcb5pi.jpg?1&quot; alt=&quot;Image 3&quot; /&gt;&lt;br /&gt;
@@ -569,207 +571,4 @@ Fork &lt;a href=&quot;https://github.com/ajanieniolasolomon/graphql-&quot;&gt;th
 
 &lt;p&gt;Also feel free to &lt;a href=&quot;https://twitter.com/ajani_eniola&quot;&gt;Tweet at me&lt;/a&gt;, I’ll be glad to brainstorm with you.&lt;/p&gt;
 
-&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="graphql" /><category term="PWA" /><category term="REST" /><category term="API" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-11.jpg" /></entry><entry><title type="html">Storage for Usage</title><link href="http://localhost:4000/storage-for-usage/" rel="alternate" type="text/html" title="Storage for Usage" /><published>2017-08-17T00:00:00+01:00</published><updated>2017-08-17T00:00:00+01:00</updated><id>http://localhost:4000/storage-for-usage</id><content type="html" xml:base="http://localhost:4000/storage-for-usage/">&lt;p&gt;&lt;img src=&quot;../assets/images/post-bg-09.jpg&quot; alt=&quot;Storage for Usage&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;sto-well-to-avoid-rage&quot;&gt;“Sto” well to avoid “rage”&lt;/h1&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-txt&quot;&gt;That your awesome (Web or Hybrid) app would be awescome if 
-your users could use it offline.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Up until now when my current employer is starting to preach about offline capable mobile apps, i have never bothered about
-building offline capable apps. My employer’s preaching got to me and i decided to look into developing proper offline
-capable mobile apps that even support offline login and authentication and some basic crud operations.&lt;/p&gt;
-
-&lt;h1 id=&quot;spells-that-make-it-possible&quot;&gt;Spells that make it possible&lt;/h1&gt;
-
-&lt;p&gt;Personally, i have a good habit i think other developers should also adapt. I took my time to search and understand the
-different ways i could go about implementing a good solution, rather than “follow trend”. Sometimes trending technology could be
-the best solution too, but better understanding of all available options allows you make better and informed decisions.&lt;/p&gt;
-
-&lt;p&gt;After looking stuff around, i ended up with a number of options for implementation.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Localstorage&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sqlite.org&quot;&gt;SQLite&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://pouchdb.com/&quot;&gt;PouchDB&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;LokiJS&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;localstorage&quot;&gt;Localstorage&lt;/h2&gt;
-
-&lt;p&gt;Localstorage is the most common method and simples of storing in app data. It allows you to store
-data in key-value pairs.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It has a limit of 5mb accross all platforms (Android and iOS).&lt;/li&gt;
-  &lt;li&gt;You shouldn’t use this for data you want to persist. iOS clears the data once the OS is low in memory
-and there are reports of data loss also on Android. If you are fetching data from a server, this would be a great way to
-save the data and usse in app rather than making multiple API calls for the same data.&lt;/li&gt;
-  &lt;li&gt;It can only store strings.&lt;/li&gt;
-  &lt;li&gt;It can store objects and array too but you’ll have to convert them to JSON for storing and retrieving.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are frameworks built on top of localstorage such as &lt;a href=&quot;https://github.com/gsklee/ngStorage&quot;&gt;ngStorage&lt;/a&gt;
-and &lt;a href=&quot;https://github.com/mozilla/localForage&quot;&gt;localForage&lt;/a&gt;.
-A simple usage in code might look like:&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;c1&quot;&gt;// simple example&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;localStorage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'country'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;localStorage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'country'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-    &lt;span class=&quot;c1&quot;&gt;// complex example&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;records&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;country&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;country&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'usa'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;localStorage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'records'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;records&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;output&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;parse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;localStorage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'records'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;table&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;sqlite&quot;&gt;&lt;a href=&quot;https://www.sqlite.org&quot;&gt;SQLite&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Basically, SQLite is an embedded SQL database. So rather than have your database separate from your application,
-you have it in your application. If you are familiar with SQL you shouldn’t have a problem with this. I’ll be using
-&lt;a href=&quot;https://github.com/litehelpers/Cordova-sqlite-storage&quot;&gt;the cordova-sqlite-storage&lt;/a&gt; as a basis for this discussion.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It has support on all major platform.&lt;/li&gt;
-  &lt;li&gt;It uses SQL syntax, although there are &lt;strong&gt;&lt;a href=&quot;http://www.tutorialspoint.com/sqlite/sqlite_overview.htm&quot;&gt;a few differences&lt;/a&gt;&lt;/strong&gt;
-between SQL and SQLite commands.&lt;/li&gt;
-  &lt;li&gt;There seems to be no limit to the size but after digging deep trying to find the limit,
-&lt;strong&gt;&lt;a href=&quot;https://github.com/litehelpers/Cordova-sqlite-storage/issues/174#issuecomment-83019399&quot;&gt;there was an issue&lt;/a&gt;&lt;/strong&gt;
-raised on github that limited the size to about a 100mb.&lt;/li&gt;
-  &lt;li&gt;Data loss depends on you following good practices or not.
-&lt;strong&gt;&lt;a href=&quot;https://github.com/litehelpers/Cordova-sqlite-storage#avoiding-data-loss&quot;&gt;There’s a guide here on how to avoid data loss when using this as your storage&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Be careful with BLOBs. Find a more comprehensive
-&lt;strong&gt;&lt;a href=&quot;https://github.com/litehelpers/Cordova-sqlite-storage#pitfalls&quot;&gt;note on some pitfalls here&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A simple usage in code might look like:&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;c1&quot;&gt;// to open a database&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addEventListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'deviceready'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sqlitePlugin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;openDatabase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'countries.db'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;location&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'default'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-
-    &lt;span class=&quot;c1&quot;&gt;// to populate a database&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;transaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;executeSql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'CREATE TABLE IF NOT EXISTS Countries (name, no_of_states)'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;executeSql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'INSERT INTO Countries VALUES (?,?)'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;executeSql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'INSERT INTO Countries VALUES (?,?)'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'usa'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Transaction ERROR: '&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Populated database OK'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-
-    &lt;span class=&quot;c1&quot;&gt;// to retrieve data from a database&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;transaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;executeSql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'SELECT count(*) AS FROM Countries'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[],&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Record count (expected to be 2): '&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;rows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mycount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'SELECT error: '&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;pouchdb&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://pouchdb.com/&quot;&gt;PouchDB&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;PouchDB is an open-source JavaScript database inspired by Apache CouchDB. It uses IndexedDB under the hood and falling back to WebSQL where IndexedDB isn’t supported. You can use it with Angular, React, Ember, Backbone, or your framework of choice.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It uses the NoSQL syntax.&lt;/li&gt;
-  &lt;li&gt;Supported on most modern platforms.&lt;/li&gt;
-  &lt;li&gt;Since it’s NoSQL, you can directly store JSON data and retrieve it as it is.&lt;/li&gt;
-  &lt;li&gt;It can store up to 250mb of data.&lt;/li&gt;
-  &lt;li&gt;It comes with a built in function that allows you to sync your offline data with your cloud databases instances that implement a CouchDB-like protocol, and PouchDB.&lt;/li&gt;
-  &lt;li&gt;Sadly you can’t sync with MongoDB yet (of date).&lt;/li&gt;
-  &lt;li&gt;BLOBs? No problem.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are frameworks/adapters built on top of it such as
-&lt;strong&gt;&lt;a href=&quot;https://github.com/angular-pouchdb/angular-pouchdb&quot;&gt;angular-pouchdb&lt;/a&gt;&lt;/strong&gt;, 
-&lt;strong&gt;&lt;a href=&quot;https://github.com/jrhicks/ngPouch&quot;&gt;ngPouch&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;https://github.com/danielzen/ng-pouchdb&quot;&gt;ng-pouchdb&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;https://github.com/qurateinc/vue-pouch&quot;&gt;vue-pouch&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;https://github.com/terikon/kendo-pouchdb&quot;&gt;kendo-pouchdb&lt;/a&gt;&lt;/strong&gt;, etc.
-A simple usage in code might look like:&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// create a new local database&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;PouchDB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'countries'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// create a new remote database&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;PouchDB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'http://localhost:5984/countries'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// storing a document&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;s2&quot;&gt;&quot;_id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;c1&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;nigeria&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;s2&quot;&gt;&quot;no_of_states&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;put&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// retrieving asynchronously by _id the callback way&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'c1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// error stuffs&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// do some stuff with our doc&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// retrieving asynchronously by _id using promise&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'c1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// do some stuff with our doc&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}).&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;catch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// error stuffs&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;lokijs&quot;&gt;LokiJS&lt;/h2&gt;
-
-&lt;p&gt;LokiJS is a lightweight javascript document oriented database. It is intended to be used as an in-memory database, with the possibility of persisting the data.LokiJS draws inspiration from MongoDB and CouchDB, in that the API is similar (but not identical or compliant) to MongoDB. The glossary used is also classic NoSQL in that records are documents, documents are stored in collections.LokiJS supports a limited form of indexing for faster document access. The id field in particular is automaticallly populated and indexed, and searched using the binary search algorithm. Other document properties can be indexed for faster search on a particular object field.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fast Performance.&lt;/li&gt;
-  &lt;li&gt;Replaces SQLite in Cordova, works as a session store and full blown NoSQL.&lt;/li&gt;
-  &lt;li&gt;DB in node.js, works as in-browser database with syncing capabilities.&lt;/li&gt;
-  &lt;li&gt;Indexing, Secondary Indexing, Unique Indexing.&lt;/li&gt;
-  &lt;li&gt;The “Dynamic View”, a kind of “live filter” (self-materializing views).&lt;/li&gt;
-  &lt;li&gt;Persistence Adapters (with a built-in IndexedDB and node.js FS adapter).&lt;/li&gt;
-  &lt;li&gt;Optional periodic autosave.&lt;/li&gt;
-  &lt;li&gt;Changes API which keeps track of all the changes made to the
-local database. You can use this API to synchronize our cloud database.&lt;/li&gt;
-  &lt;li&gt;Compound sort for sorting on multiple columns.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Creating a database&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;loki&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'example.db'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Add a collection :&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addCollection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'countries'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Insert documents&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;insert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'usa'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// alternatively, insert array of documents&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;insert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'usa'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Simple find query&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;results&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;no_of_states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'$gte'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;countries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;findOne&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'nigeria'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;in-conclusion&quot;&gt;In conclusion&lt;/h1&gt;
-
-&lt;p&gt;After my little research into these technologies and comparing the scope of the offline application i want to build, i have made a decision on the tech to use.
-As developers we should do research into the tools and tech we use for projects so we don’t end up with something overkill or underkill.&lt;/p&gt;
-
-&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="storage" /><category term="javascript" /><category term="offline" /><category term="online" /><category term="web" /><category term="hybrid" /><category term="app" /><category term="localstorage" /><category term="sqlite" /><category term="pouchdb" /><category term="lokijs" /><category term="databases" /><category term="browser" /><category term="chrome" /><category term="mobile" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-09.jpg" /></entry></feed>
+&lt;p&gt;Cheers!!!&lt;/p&gt;</content><author><name>lagosnomad</name></author><category term="blog" /><category term="graphql" /><category term="PWA" /><category term="REST" /><category term="API" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/post-bg-11.jpg" /></entry></feed>
