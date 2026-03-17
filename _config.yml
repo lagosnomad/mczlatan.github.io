@@ -34,22 +34,8 @@ disqus:
   categories: [blog, project, tours] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
-# twitter: woleoflagos
-# google:  McZlatanBourne
-# instagram: woleoflagos
-# pinterest: lagosnomad
+
 linkedin: olakanmi-oluwole-96b129b7
-# youtube: channel/UCrutGwMzAC1FxApdMIwsvYg
-# spotify: myspotify
-# github: lagosnomad
-# lastfm: mylastfm
-# stackoverflow: 3812348/mczlatan
-# quora: Mczlatan-Bourne
-# reddit: lagosnomad
-# medium: McZlatan_Bourne
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 email: wole@lagosnomad.com
 
 authors:
