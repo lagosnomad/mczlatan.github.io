@@ -1,6 +1,6 @@
 # main text of home
-name: Olakanmi Oluwole
-bio: Cyber Security and Software Engineering
+name: Olakanmi Wole
+bio: Lagos Nomad that writes code for the web and mobile platforms.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,13 +8,13 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/laylay.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
 resume-external: false
-# resume-url: https://google.com/?q=my+resume
+resume-url: https://google.com/?q=my+resume
 
 #url: lagosnomad.com
 # your url: http://USERNAME.github.io
@@ -34,7 +34,6 @@ disqus:
   categories: [blog, project, tours] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-
 #facebook: myfacebook
 twitter: alagosnomad
 google:  McZlatanBourne
@@ -56,10 +55,10 @@ email: wole@lagosnomad.com
 authors:
     lagosnomad:
         name: Olakanmi Oluwole
-        bio: Cyber Security and Software Engineering.
+        bio: Lagos Nomad that writes code for the web and mobile platforms.
         external-image: false
-        picture: assets/images/laylay.jpg
-        twitter: woleoflagos
+        picture: assets/images/profile.jpg
+        twitter: alagosnomad
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -75,8 +74,8 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-blog: false
-tours: false
+blog: true
+tours: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
